@@ -1,0 +1,550 @@
+index,Text,Tag,sentence_id
+0,"dẹp xinh giá rẻ , đáng mua",0.0,0
+1,cách đọc is rất gOd đó .,0.0,1
+2,"tôi rất thích_ứng_dụng này , nó giúp cho con tôi nhận_biết được mọi thứ bằng tiếng anh và các ngôn_ngữ khác . xin cảm_ơn .",0.0,2
+3,"vải đẹp , giao nhanh",0.0,3
+4,hàng cũng được nhưng vãi hơi mỏng,1.0,4
+5,không như_ý_muốn,1.0,5
+6,sao tôi dịch tiếng nhật mà nó vẫn ra tiếng nhật tôi chỉ cho 1star,1.0,6
+7,"son đẹp , mướt , màu này không lén da , rất tây , phù_hợp với nhiều kiểu makeup",0.0,7
+8,"tiki huỷ đơn hàng rồi không hoàn tiền cho khách_hàng , gọi điện cs không nghe máy , viết mail trả_lời tự_động cho khách_hàng một_cách vô trách_nhiệm . thiếu nhân_viên không giao được hàng thì việc tối_thiểu nhất_là hoàn tiền cho khách cũng lần nữa không làm . coi_thường khách_hàng .",1.0,8
+9,máy tốt giao hàng nhanh chống tư_vấn hiệu_quả,0.0,9
+10,"game play cực hay , đồ_hoạ rất đẹp , khen ông design , . có_điều là khó_chịu với cái cơ_chế triệu_hồi vật_phẩm các thứ bằng chúa khoá quá đắt , chỉ có 2 loại rương để mở thì hơi chán . đa_số các gamer đều thích chơi mấy cái nhân_phẩm , nên đưa vô mấy cái như quay may_mắn , bốc_thăm các thứ vào thử ( thông . bài đánh_giá đầy_đủ",1.0,10
+11,đẹp nhưng màu hơi không giống hình chút thui .,1.0,11
+12,"tài_khoản facebOk bị vô_hiệu_hoá một_cách ngu_xuẩn . facebOk là ứng_dụng giúp tôi giải_trí và trò_chuyện với mọi người . nhưng giờ nó yêu_cầu cả quyền cung_cấp cmnd , gplx , V. . . bla bla . bảo_mật yếu_kém và giờ muốn giữ cả thông_tin con_người , cả một trung_quốc tâm dữ_liệu , những hacker có_thể tấn_công và . bài đánh_giá đầy_đủ",1.0,12
+13,"đúng hình , đúng side , giống mô_tả",0.0,13
+14,"dép đi hơi trơn trợt , mang lâu chút là đỗ mồ_hôi , rít chân . không hài_lòng",1.0,14
+15,mỗi lần vẽ nó cứ rung điện_thoại rất khó chs mong nhà sảng xuất kiểm_tra lại,1.0,15
+16,đóng_gói kỹ đầy_đủ rất được cửa_hàng,0.0,16
+17,"ứng_dụng rất hay . nhưng mình thấy phần dịch nhật - việt lên để chỉ dịch ra tiếng việt , vì hầu_hết mọi người không biết tiếng anh . để_ý_nghĩa tiếng anh sang phần dịch nhật - anh thì hợp_lý hơn .",1.0,17
+18,dễ_thương lắm ạ,0.0,18
+19,"giao hàng nhanh , sản_phẩm giao theo đúng đơn đặt_hàng .",0.0,19
+20,"vào các mục tìm_kiếm rất chậm . tin nhắn mấy ngày mới thấy kiểm_tra đơn hàng cũng phải đợi hơn nữa giờ mới thấy được , vô_cùng bất_tiện trước thích bao nhiều yêu thì giờ chán bấy_nhiêu mong admin xem_xét_lại điện_thoại vào các ứng_dụng khác bình_thường chỉ mỗi cửa_hàng E là lỗi",1.0,20
+21,hay nhưng nhà phát_hành cho thêm hiệu_ứng tự cập_nhật phiên_bản mới nhất cho điện_thoại với lại như_vậy có_lẽ nó sẽ hay hơn nhiều à mong nhà phát_hành cho thêm cách kiếm xu mini để trẻ nhỏ chơi nữa và cách nạp tiền cũng khó nên mong nhà phát_hành đồng_ý điều_kiện của tôi xin trân_trọng cảm_ơn,1.0,21
+22,"vải mềm , mát . tôi rất hài_lòng về sản_phẩm hẩm",0.0,22
+23,sét này rất dễ_thương hợp với túi_tiền mình cũng dễ_tính hài_lòng cho cửa_hàng 5star,0.0,23
+24,đẹp lắm em được,0.0,24
+25,màu đẹp nhưng sản_xuất tại trung quốc quốc nên chỉ make đăng chân để mặc váy .,1.0,25
+26,sản_phẩm rat tốt mìh su đúng được 2ngày mụn giãm dág kể nha .,0.0,26
+27,"quá tệ , hàng hay bị lỗi , còn giao hàng cục đá tới nữa chứ , trả đổi hàng lại gần cả tháng chả thấy hồi_âm , điện_thoại lên thì không trả_lời , sử_dụng cũng gần 2 năm mua rất nhiều đồ nhưng kể từ vài tháng lại đây xảy ra quá nhiều , không_thể chấp_nhận được , mình là khách_hàng nhưng bên nhân_viên tiki không xem như vậ . bài đánh_giá đầy_đủ",1.0,27
+28,"không gì bàn cải , rẻ xuất xắc",0.0,28
+29,"dừng rất thích , sản_phẩm giống với hình",0.0,29
+30,đóng_gói đẹp nv giao hàng nhiệt_tình,0.0,30
+31,"đơn hàng có quà tặng mà nhận được có kem ko , chả thấy quà đâu 🙄",1.0,31
+32,"đóng_gói cẩn_thận , kem chống nắng dùng tốt , phù_hợp cho da H_thiên dầu như_tớ , khô_ráo và lên tone nhẹ",0.0,32
+33,"kem chất_lượng , đúng màu đóng_gói tệ , không bao_bọc túi khí mà để trần_vậy luôn , may là không có hư_hỏng gì",1.0,33
+34,kích_hoạt bảo_hành cho mình cửa_hàng ơi,0.0,34
+35,ứng_dụng hay nhưng cập_nhật sửa lỗi không_thể nhận_dạng giọng nói rồi mà aP của mình vẫn không_thể nhận_dạng giọng nói trong luyện_tập hội_thoại được,1.0,35
+36,dùng được 3 ngày nhưng cảm_thấy rất hiệu_quả à nha,0.0,36
+37,aD giúp mình với . line trên máy điện_thoại mình người khác gọi điện đến thì nghe thấy tiếng . còn mình gọi đi thì không nghe thấy gì . mình dùng phiên_bản mới nhất .,1.0,37
+38,"da mình thâm mụn có việc cần dùng liên_tục trong 3 ngày thôi mà skin quan_tâm đủ kiểu về bị nổi thêm một đống , không khuyến_khích các bạn da mụn , kể_cả bị thâm dùng nhé . bao_bì sản_phẩm không tạo độ tin_cậy , nhìn như hàng trôi_nổi ngoài thị_trường . 5star cho đơn_vị vận_chuyển .",1.0,38
+39,pó tay . hình_ảnh quả người cáo và nhận như cái quần què . 1star . tiền nào thì hàng như_vậy .,1.0,39
+40,cửa_hàng gói hàng không kĩ cộng thêm nắp chai không được cho lắm . chất kem xài bị lộ vân kem và khô da nhé,1.0,40
+41,giao nhầm đồ rồi cửa_hàng ơi,1.0,41
+42,"tôi rất cảm_ơn nhà_sản suất , trò_chơi này rất tuyệt . nhưng về hình_vẽ tôi cảm_thấy chúng chưa được đẹp_mắt cho lắm . tôi mong nhà_sản suất cố_gắng . và còn phần các loại lính riêng tôi thấy còn khá ít , về trang_phục của lính nhật bản như kị_binh , cung thủ tôi không thấy trang_phục samurai .",1.0,42
+43,"tốt , sản_phẩm như hình .",0.0,43
+44,"tôi đồng với tất_cả mội người vì tôi cũng vậy , khi vào game chơi ngon độ hoạ cũng đẹp lag . máy tôi là galaxy a30 . nó có cái item để thây đổi quốc_gia , từ trung quốc sang nhật nó không có cảnh_báo gì hết , từ cấp 500 ^ thì đã thành cấp 1 . tôi cài cuốc mãi mà không lên cấp 2 .",1.0,44
+45,"rẻ mà_lại chất_lượng . ưng lắm luôn . nghĩ có_thể sẽ có bị lỗi ấy nhưng không hề , quần vẫn lên form cực xinh luôn . đáng mua",0.0,45
+46,rất đẹp và mềm_môi,0.0,46
+47,"vì_sao tôi lại chỉ cho 4 sao ! thứ 1 : game toàn những sever mới muốn đăng_nhập cũng không được . thứ 2 : cách đăng_nhập tên quá bẩn lúc có tên người_ta chưa có thì nó bảo kí_tự không hợp_lệ thứ 3 : toàn từ lúc level 36 trở lên toàn gặp 5x , 4x thì bắn bằng niềm tin cuối_cùng tôi mong vinagame fix lại cách đăng . bài đánh_giá đầy_đủ",1.0,47
+48,son len mau đẹp,0.0,48
+49,đầm nhìn mẩu đẹp nhưng vải không ưng lắm cửa_hàng nhé,1.0,49
+50,ứng_dụng rất hay tôi có_thể theo_dõi tình_hình dịch_bệnh mọi lúc mọi nơi cảm_ơn bộ y_tế đã ra_mắt aP này hi_vọng chúng_ta sẽ đẩy_lùi dịch_bệnh nguy_hiểm_này,0.0,50
+51,cảm_ơn các bạn đã làm ra_trò_chơi này tôi rất cảm_ơn các bạn đã làm ra đây chơi này nên tôi rất yêu bạn chơi có_thể kết_bạn và nói_chuyện bạn mình bất_kỳ lúc_nào và bây_giờ đang nghỉ_hè tôi muốn rất là muốn nghe giọng của các bạn mình nên là rất là cảm_ơn để làm chân_mày để tôi có_thể_nào lại các bạ . bài đánh_giá đầy_đủ,0.0,51
+52,ủa sao tải rồi mà không có server để chơi mà mới_đầu vô thấy game đánh nhau ùm sèo cũng hơi thú_vị hi_vọng game sẽ ra sever đánh_giá 5star luôn không nói nhiều,0.0,52
+53,tôi muốn hỏi tại_sao ? tại_sao ? tại_sao ? ? ? tại_sao các bạn lại làm một game hay như_vậy để những người đã có tí tủi như tôi cũng dành thời_gian để chơi ? ? ? thật tiếc cho những ai vẫn còn mang tư_duy cũ về game mà không tận_hưởng những sáng_tạo về công_nghệ ntn . nhân đây tôi xin chúc các bạn thật nhi . bài đánh_giá đầy_đủ,0.0,53
+54,"rửa mặt xong thấy đã mịn va sáng hẳn , và rất nhiều bọt . đây là lần thứ nó mua hàng của senka . rất hài_lòng",0.0,54
+55,"đặt màu đen cửa_hàng giao màu trắng , có nhắn_tin xin_lỗi khách , giải_quyết vấn_đề nhanh_chóng , thích cách phục_vụ của cửa_hàng này",1.0,55
+56,tốt,0.0,56
+57,rộng không vừa ạ,1.0,57
+58,không giống hình lắm . nhưng được,1.0,58
+59,"đây là một phần_mềm lừa_đảo , mọi người đừng bị gạt , mình đã bị lừa 499k mua một năm học_phí , chuyển tiền qua ngân_hàng vpbank , nạp ngay tại ngân_hàng từ 8h sáng mà đến tối vẫn còn kiểm_tra tiền có vào chưa chứ không có cho mã để vào học đâu , mọi người nên tránh xa cái chương_trình lừa_đảo này đi ạ .",1.0,59
+60,tôi mới cho con học thử thấy rất hay nhưng nếu có thêm phần nghe trẻ phát_âm đúng hay sai nữa thì càng tuyệt ạ,1.0,60
+61,"quần đẹp , vãi tốt 👍 👍 👍",0.0,61
+62,"hay có_thể luyện viết kan gì i và có phần đọc báo . nhưng cho mình hỏi làm_sao biết cách ghi khi tra từ , viết lúc nó đổi hiragana lúc thì kan gì i , tôi chưa rõ lắm . mong giúp_đỡ . cảm_ơn .",0.0,62
+63,ứng_dụng dành học_sinh trường tiểu_học sơn_định,0.0,63
+64,mình thấy quần rất đệp 🙉 🙉 🙉 một chấm là say cửa_hàng này rồi,0.0,64
+65,mình nói ngắn_gọn cho các bạn mà hay gặp lỗi văng game để sửa nhé . các bạn dùng android thì lên youtube xem cách bật chế_độ nhà phát_triển . sau đó vào chế_độ này . tìm mục giới_hạn các xử_lí nền và chỉnh lại còn 2 tác vụ thôi . khi chơi game thì đừng có bật nhiều aP cùng lúc . tối_đa hai aP thôi . các . bài đánh_giá đầy_đủ,0.0,65
+66,đồ không đúng mẫu nhưng cũng được 😛,1.0,66
+67,"game rất hay , các con vật rất dễ_thương , nhất là bé gấu_trúc , nhưng mong nhà phát_hành chỉnh_sửa lại con bò để cho dễ nhận_biết hơn , tôi rất thích tựa game này đúng với sở_thích sinh_tồn của tôi . mong nhà phát_hành tạo ra nhiều trò_chơi sinh_tồn khác hay hơn . tôi ủng_hộ mọi người_làm game hay nha by . bài đánh_giá đầy_đủ",1.0,67
+68,đóng goíi kỹ đúng mô_tả,0.0,68
+69,"màn_hình hơi lỗi cảm_ứng , đôi_khi bị liệt cảm_ứng ở góc trên bên phải màn_hình",1.0,69
+70,quần đẹp nhưng siZle hơi bự,1.0,70
+71,monkey gì unior rất hay và hữu_ích . nhưng người việt mình học tiếng anh . tôi nghĩ cần bổ_sung phiên_dịch sang tiếng viêt ( tiếng việt đi kèm trong ngôn_ngữ tiếng anh ) thì tốt quá,1.0,71
+72,em đặt mà không có thấy tặng son kèm theo cửa_hàng ơi : ( ( (,1.0,72
+73,"ứng_dụng rất hay , cảm_ơn admin đã tạo ra ứng_dụng này . tôi chỉ đánh giả kiểu ủng_hộ chứ không phải bắc buộc đâu nhé , cân_nhắc trước khi đánh_giá ứng_dụng này",0.0,73
+74,khất khó_chịu đổi điểm yến tiệc tự_động re tươi thì người chơi phải on thích mới được tính vào thời_gian đó chả nhẽ lại xoá game positive ) game thì hút máu positive ) bản 1.0.1 đổi tài_khoản gOgle khác thì cực_kỳ khó_khăn positive ) đua top sk thằng nào giàu hiến máu nhiều thì cái top đó nó thuộc về người đó cái positive ) xem_lại nhận_xét đó nha,1.0,74
+75,sản phảm hiệu_quả,0.0,75
+76,hàng y hình vải mềm có đều em đặt màu đen mà giao hồng nha 😙 😙 anh giao hàng thân_thiện nhiệt_tình,1.0,76
+77,"nếu ai muốn học tốt tiếng nhật thì nên tải ứng_dụng này nhé , mình đã tải và được kohi tặng một quyển sách rất hay về tiếng nhật , đã thế lại còn gửi đến tận nhà nữa - ai không tải thì phí cả cuộc_đời 😙 😙 😙 😙",0.0,77
+78,dép đẹp êm chân mình rất thích . mua hộ mọi người đều khen,0.0,78
+79,"rửa sạch nhờn , khô mặt mụn đang bị đỏ lun , rất hài_lòng , sẽ ủng_hộ tiếp",0.0,79
+80,hàng chính hãng . ngay sau khi sử_dụng đã nhận được tin nhắn bảo_hành của samsung . thật tuyệt .,0.0,80
+81,giao không đúng kem nền đã đặt,1.0,81
+82,sản_phẩm tốt,0.0,82
+83,tuyệt_vời không gì để chê,0.0,83
+84,game rất hay nhưng tôi rất bức_xúc vì một_số lỗi . tôi đang xài một con máy tệ chơi thì đứng yên màn_hình không di_chuyển được . nhưng khi tôi đổi một con máy cao hơn thì tình_trạng này vẫn tiếp_tục . và một điều nữa đó là lỗi vấn_đề sát_thương trong game . tôi dùng kla đấm vào đầu nhưng địch không chế . bài đánh_giá đầy_đủ,1.0,84
+85,chất_liệu vải tốt màu cũng đẹp tớ bán hàng online nên sẽ ủng_hộ cửa_hàng cửa_hàng bán hàng chất_lượng cho cửa_hàng 5star,0.0,85
+86,nó cứ gì gì í .,1.0,86
+87,mau rách lắm chị gì ạ em mặc có lần là rách rồi,1.0,87
+88,"game hay , giải_trí . nhưng cập_nhật lên chưa kiểm_tra kĩ lắm . đánh ải dựt , chậm . một_số chức_năng lỗi dừng aP , phải đăng_nhập lại . mong admin khắc_phục để người chơi có trải nghiệm tốt hơn . cảm_ơn .",1.0,88
+89,ứng_dụng chưa được hoàn_thiện bluetOth lúc_nào cũng bật mà không báo chỉ khi nào vào ứng_dụng và mọi người quét thì mới phát_hiện có bao_nhiêu người quanh bạn,1.0,89
+90,chất không tốt,1.0,90
+91,"máy tốt , giao hàng 8 ngày sau khi đặt , máy fuLbox new , không biết kích_hoạt bảo_hành , ai chỉ em với",0.0,91
+92,đặt cỡ 40 giao 39 . chật,1.0,92
+93,quần quá đẹp y hì giờ mặt_nạ nên mua 😘 😘 😍,0.0,93
+94,áo quá đẹp luôn ạ,0.0,94
+95,dat một noi giao hang một duong cửa_hàng lam an nhu ke,1.0,95
+96,rất đẹp được lắm,0.0,96
+97,"nhân_viên hỗ_trợ chỉ nhắn một mail chung_chung chả giải_quyết vấn_đề gì , sau đó không trả_lời mail của tôi . nhân_viên giao hàng không gọi điện , không đến giao hàng nhưng vẫn báo là người nhận vắng nhà dù tôi ở nhà cả ngày ( vn post nhanh ) . quá hạn giao hàng nhưng tôi vẫn chưa nhận được đơn hàng dù đã trả . bài đánh_giá đầy_đủ",1.0,97
+98,"chất son siêu thích , mềm mịn vô_cùng , môi mình hay bị khô nhưng tô son vào rất mượt , thích lắm . màu nâu đất pha đỏ nhìn lạ lạ . mua giá khuyến_mãi chỉ còn 70k nhưng chất_lượng ngoài mong_đợi",0.0,98
+99,sốp làm_ăn kỳ quá mua 3 đôi mà giao có 2 đôi tính tiền 3 đôi lừa_đảo,1.0,99
+100,quần đẹp nhưng 1m6 mặc hơi ngắn,0.0,100
+101,quần đẹp vải dày_dặn_dò có dãn tốt đóng_gói cẩn_thận rất ưng luôn giá_cả còn họp lí lần sau sẽ ủng_hộ cửa_hàng tiếp,0.0,101
+102,được ứng_dụng rất tốt toi cam_ơn nha_san xuất,0.0,102
+103,game rất hay nhưng mong nhà xuất_bản nên cập_nhật minecraft thêm những cái mới,1.0,103
+104,nhanh gọn chúng_ta chỉ cần tải Ap về mở bluetOth và vị_trí thì xd được ngay ! mặt_nạ cùng chung tay góp sức_diệt cov,0.0,104
+105,không phải mẫu em chọn em gửi trả lại,1.0,105
+106,tôi muốn trả hàng vì mặc không vừa,1.0,106
+107,"bộ sản_phẩm được đóng_gói cẩn_thận , . rất được nhưng chưa sử_dụng nên không biết kết_quả",0.0,107
+108,tinh_chất giúp giảm thâm và nám đáng_kể dù mới sử_dụng . nên kết_hợp với toNer của hada labo sẽ có hiệu_quả rõ_rệt .,0.0,108
+109,"ứng_dụng tốt nhưng nhiều tài_xế thiếu chuyên_nghiệp , có thái_độ lồi_lõm với khách , đặc_biệt là mỗi khi tôi đi grab mà có khuyến_mãi là ý như rằng tôi xin tiền của tài_xế không bằng á , nói_móc mẻ , mỉa_mai . đề_nghị grab nên training lại thái_độ của các tài_xế , đưa ra chương_trình khuyến_mãi rồi người_ta . bài đánh_giá đầy_đủ",1.0,109
+110,không tốt cho lắm,1.0,110
+111,em cực thích vitamin chị của melano . dù hàm_lượng thấp nhưng dùng lâu_dài và gắn_bó thì ưng cực_kỳ ạ,0.0,111
+112,"game hay , nhưng tôi xin góp_ý là game nên sửa một tý là nên cho mọi người đánh tên bản_nhạc mà mình thích rồi admin của game sẽ tìm ra bản_nhạc đấy và cho người tìm bản_nhạc đánh bản_nhạc mà mình thích . mong game sẽ thêm phần này vào game . xin cảm_ơn !",1.0,112
+113,"dịch_vụ quá tệ ! chả_trách bạn tôi thường mua hàng nhưng chả bao_giờ khuyến_khích bọn tôi mua hàng của tiki . tôi và gia_đình sẽ không bao_giờ mua hàng của trang này lần nào nữa . quá tệ ! hàng lỗi mà thu_hồi vừa chậm vừa thái_độ thách_thức kh , đến mức tôi phải huỷ lệnh thu_hồi !",1.0,113
+114,giao hàng không đúng . mua sản_phẩm có đính kèm quà tặng nhưng không hề nhận được quà tặng,1.0,114
+115,dùng được khoảng 15 ngày hơn rồi thấy nám chưa giảm rõ_rệt lămz nhưng thấy da sáng và bóng hơn và có chút se khít lỗ chân_lông,0.0,115
+116,giao hàng nhanh sản_phẩm thấy nhẹ chưa sử_dụng không biết có hợp không,0.0,116
+117,không thấy quà tặng theo là như nào lừa_đảo à ? ? ?,1.0,117
+118,rất đẹp vải không được đẹp lắm nhưng được,1.0,118
+119,"máy chính hãng , nguyên seal , đẹp . chờ kích_hoạt bảo_hành",0.0,119
+120,"quyết_định cho nph 5star vì game hay , dù hình_ảnh bị lỗi rất nhiều . mong nph sớm đăng hạn sử_dụng để khắc_phục lỗi ạ !",1.0,120
+121,trò_chơi này rat vui va co thể rèn_luyện cho đôi tay của mình nhanh hơn và nhiều hơn nữa là có những bài hát hay nữa tôi rất thích trò_chơi này,0.0,121
+122,không có tặg quà 😢,1.0,122
+123,vải xấu,1.0,123
+124,"tuỳ với mỗi loại da mà có tác_dụng khác nhau . da của mình rất hợp với loại sản_phẩm này , dùng rất hiệu_quả . bên cạnh đó khi mua một bộ như thế này rất tiết_kiệm , rẻ hơn nhiều rất với mua_lẻ từng sản_phẩm",0.0,124
+125,tôi thấy bên nph game nên thay_đổi lại phần_thưởng trong đua top_bang . quá bất_công cho thành_viên trong bang khi cả bang đua top mà bang chủ phần_thưởng lại được nhiều hơn nhiều . không bằng nhau thì thưởng của thành_viên cũng phải bằng 12 hoặc 13 phần của bang chủ chứ đua như_vầy cả bang mất_công . bài đánh_giá đầy_đủ,1.0,125
+126,ứng_dụng này có đảm_bảo bảo_mật thông_tin cá_nhân của người dùng không và dựa trên nguyên_tắc nào để tin_tưởng cho bảo_mật đó ? !,0.0,126
+127,"sản_phẩm dưỡng ẩm , se lỗ chân_lông ( đặc_biệt tốt khi dùng kèm lotion ) . dùng lâu thấy có trắng lên chút đó",0.0,127
+128,số xài được lắm nhé,0.0,128
+129,đồ giao không đúng mẫu đã đặt .,1.0,129
+130,"các chương_trình quả người cáo , nhất là kết_nối trái_tim hay kết đôi gì đó cực_kì phiền_phức và làm_phiền người dùng ! tôi dùng aP vì để liên_lạc với người quen và người tôi cần liên_hệ chứ không phải để bị làm_phiền vì những chương_trình nhảm_nhí và vô_duyên đến vậy !",1.0,130
+131,sản_phẩm được shipber nhiet tinh . . cam on . .,0.0,131
+132,vãi được lắm,0.0,132
+133,aP hữu_ích,0.0,133
+134,sản_phẩm đóng_gói tốt . mùi thơm nhẹ . sử_dụng ok . sẽ quay lại ủng_hộ,0.0,134
+135,"giao hàng nhanh , đón gói cẩn_thận , hàng xài dịu nhẹ không gây kích_ứng da ( trong quá_trình sử_dụng mình lỡ là dơ lọ thôi )",0.0,135
+136,"một shiPer gọi tôi và bảo quán tôi đặt đã đóng_cửa và để shiPer tự huỷ đơn . tôi gọi đến quán đó hỏi thì họ bảo vẫn mở_cửa bình_thường . cuối_cùng thì shiPer đó tự_ý làm thành_công đơn hàng , cũng may tôi dùng phương_thức thanh_toán bằng tiền_mặt chứ bằng thẻ chắc lại có chuyện nữa . now nên coi lại . bài đánh_giá đầy_đủ",1.0,136
+137,vải được lăm nha . . vải mịn,0.0,137
+138,tôi bị chặn like . thích bài viết của tôi cũng không được . tôi đã báo_cáo sự_cố rất nhiều nhiều lần . tôi không chụp ảnh bằng camera trong instagram được . chỉ được chỉnh_sửa anh . tôi thấy rất phiền . mong instagram mau khắc_phục . . .,1.0,138
+139,hàng chính hãng đất yêu_cầu đã dùng một tháng được,0.0,139
+140,"thực_sự thì cho mình hỏi là có chuyện gì đã xảy ra với game vậy aD ? có máy vào được game có máy lại không . mình đã xoá và tải lại thêm lần nữa để xem thế_nào , vì lần nào vào cũng thấy hiển_thị kính gửi các game thủ . mình không_thể xoá hay di_dời được phần thông_tin đó đi đâu . và cũng không có ch . bài đánh_giá đầy_đủ",1.0,140
+141,"quần cũng tạm được thôi , tiền nào của đó nhé mọi người",0.0,141
+142,đặt màu xanh lá nhạt số 35 cửa_hàng giao màu hồng số 36 mà mình tìm mãi trong hình cửa_hàng đăng không có màu và mẫu đó luôn mong cửa_hàng cố_gắng bán theo những gì mình đăng nha,1.0,142
+143,sản_phẩm đẹp có đều thun quần nhỏ lắm ☹,1.0,143
+144,son mền . lên chuẩn màu . . thích lắm lắm luôn,0.0,144
+145,phải cho 1star thì mới cho đăng bình_luận . hãm thật . grab giờ chắc không cần khách nữa rồi ! viết bình_luận thế này chắc gì họ đã đọc . chuyển tài_khoản từ máy này sang máy khác dùng mà lỗi lên lỗi xuống không xác_minh được . gọi tổng_đài 9 cuộc thì báo các tư_vấn viên bận cả 9 . thật_sự go việt mà có g . bài đánh_giá đầy_đủ,1.0,145
+146,"quần cũng tạm được thôi , tiền nào của đó nhé mọi người",0.0,146
+147,game muốn thu_nhập cao thì phải chiều lòng người chơi là phần_nhiều sau đấy càng ngày họ sẽ càng yêu thích và cống_hiến hết_mình cho game lúc đấy sẽ nhiều người nạp game và thu_nhập sẽ cao nếu_như lúc game vừa mở được 2 tháng mà chưa quá làm hài_lòng người chơi thì sau_này sẽ ít người cống_hiến,0.0,147
+148,vãi tạm ổn,0.0,148
+149,rất hợp với dáng em 5star nhé,0.0,149
+150,"tinh_chất vitamin chị nhưng có chiết_xuất thảo đậu_khấu và bổ_sung thêm vitamin em nữa , thực_sự dùng cải_thiện da khoẻ và sáng lên rất ổn luôn",0.0,150
+151,giao hàng nhanh,0.0,151
+152,có tài_khoản không đăng_nhập được trên ứng_dụng nhưng trên web lại được . lập tài_khoản mới thì chưa xong đã bảo vô_hiệu_hoá do vi_phạm . tôi chả hiểu đến tài_khoản còn chưa lập được thì vi_phạm cái gì . xoá đi tải lại chục lần vẫn y_như cũ . thật_sự thất_vọng lỗi kinh_khủng_khiếp,1.0,152
+153,đóng_gói giao hàng không xem hay sao vay . đéo mẹ bi rách vậy cũng giao . bị duoi hay sao không thay vậy cửa_hàng . thang nao con nao đống gối hàng vay . dm,1.0,153
+154,ứng_dụng rất tốt và hữu_ích . nhưng phần hỏi_đáp còn chung_chung quá ạ . nhiều người vẫn không biết địa_điểm để test xét_nghiệm nên em nghĩ cần có giải_đáp chi_tiết hơn .,1.0,154
+155,giao nhanh bất_ngờ,0.0,155
+156,"hàng nhận không giống mẫu , tà_chéo mà hàng nhận 2 lớp tà_ngang hết , vải bị xướt . thất_vọng",1.0,156
+157,"các bạn cần cân_nhắc trước khi mua hàng trên tiki . đặt_hàng từ người bán nước_ngoài nên yêu_cầu thanh_toán trước , thanh_toán xong chờ 5 ngày sau không thấy bất_kì một phản_hồi nào của tiki về trạng_thái đơn hàng . gọi chăm_sóc khách_hàng hổ trợ thì nhân_viên nói_chuyện cộc_lốc nào hàng về tới việt nam rồi biết . l . bài đánh_giá đầy_đủ",1.0,157
+158,"hàng nhật mà không có tem và không có kẹp giấy bạc , cảm không yên_tâm",1.0,158
+159,sản_phẩm được lắm,0.0,159
+160,"có lần em vô_lại khoá học bị mất hết , phải làm_sao ạ ?",1.0,160
+161,giao hơi chậm nhung vải mịn hang_đẹp,1.0,161
+162,"đóng_gói cẩn_thận , chắc_chắn . hàng giao nhanh , đặt ngày 136 mà 156 đã có hàng sản_phẩm dùng rất thích , rất phù_hợp với da của mình . lúc trước là chỉ mua_lẻ một chai sữa rửa mặt nhưng giờ mua luôn hẳn một combo . mọi người nên biết da mình thuộc loại da gì để cân_nhắc việc mua sản_phẩm nhé",0.0,162
+163,áo in quá đẹp ạ,0.0,163
+164,tệ . lừa_gạt khách_hàng,1.0,164
+165,"rất thích , rất đẹp tuyệt_vời , rất real , rất .",0.0,165
+166,"tại_sao các chốt kiểm_soát của các tỉnh_thành vẫn không chấp_nhận phương_pháp khai_báo y_tế bluezone , mà vẫn yêu viết giấy",0.0,166
+167,sản_phẩm được lắm . . tặng 5 star,0.0,167
+168,đóg gói cẩn_thận cửa_hàng thân_thiện chiều khách_hàng đáng tiền,0.0,168
+169,thi thật có dạng như này hay khác vậy,0.0,169
+170,cỡ hơi rộng ai đi 38 thì nên chọn 35 la đep .,1.0,170
+171,đầm đẹp lắm nha cửa_hàng,0.0,171
+172,tài_khoản của tôi đã bị khoá . đăng_nhập cũng như tạo tài_khoản mới cũng không được . mong twt có_thể lấy lại tài_khoản giúp tôi . nếu không lấy lại được thì xin làm cách nào đó để tôi có_thể tạo một tài_khoản khác .,1.0,172
+173,giảm điểm chính_tích thăng cấp hoặc cho thêm đIểm để thăng quan . chứ gì mà mỗi lần vượt ải hay xử_lí chính_vụ có 5 điểm hà . mà điểm thăng quan cần tới 1k mấy . đây mới có tòng lục phẩm thôi mà đã như thế . sau_này lên cao không biết nhiều yêu điểm . làm gì cũng phải nhớ anh_em nông_dân vs . sửa lại rồi bình_chọn 5star,1.0,173
+174,mình vừa xoá đi tải lại để chắc_chắn là tải về phiên_bản mới nhất và vẫn không_thể sử_dụng được phần tìm bằng hình_ảnh : (,1.0,174
+175,"từ trưa nay báo bảo_trì xong tôi đăng_nhập vào tài_khoản gOgle của tôi liên_tục thất_bại , không_thể kết_nối tài_khoản cũ vào game được nữa",1.0,175
+176,"áo đẹp , đúng mẫu , đúng vải như hình mô_tả mình 1m64 nặng 53 không mặc vừa cỡ xin_lỗi . giao hàng đúng màu , đúng cỡ , giao hàng nhanh",0.0,176
+177,"ứng_dụng rất tốt , có_ích cho việc học và tra_cứu . nhưng ứng_dụng đã cập_nhật phần dịch rất bất_tiện . không_thể dịch ngược_lại , không còn có_thể coPy đoạn vừa dịch . mong rằng các quả nó trị viên có_thể thêm chức_năng ấy lại . cảm_ơn mọi người .",1.0,177
+178,"aP có giao_diện đẹp , chạy mượt , nội_dung bài_học đầy_đủ , tiện_ích giúp mọi người dễ_dàng học_tập",0.0,178
+179,"da mình hơi nhạy_cảm , da thoa xong bị nổi mẫn đỏ , phải ngưng sử_dụng ngay lập_tức . đem thoa vết thâm ở chân thì phải một thời_gian dài nhưng chưa thấy hiệu_quả lắm",1.0,179
+180,sản_phẩm đúng mẫu . đóng_gói cẩn_thận . chất_lượng sản_phẩm khá là tương_đối,0.0,180
+181,hàng rất đẹp,0.0,181
+182,tôi không hỉu thế_nào đồ thì nhăn . mỗng như lá lúa đườg chỉ thì thưa quần thì ngắn không nói tuỳ theo chiều cao . cn đằg này dồ rất mỗng mua 2 bộ giốg nhau thì lại giao khác nhau là sao vậy hả rồi mặt được mấy ngày vậy trời tôi mua đã nhiều lần rồi nhưng chỉ riêng lần này làm tôi quá thất vọg đề_nghị làm_ăn cho đàg hoàng vào nhé,1.0,182
+183,"giao hàng nhanh , đóng_gói kĩ_càng , dùng thử và có mùi chanh dịu nhẹ khá thích . mới xài nên chưa biết tác_dụng ra sao . nếu tốt sau_này sẽ quay lại mua tiếp",0.0,183
+184,"đúng chát , vãi mịn . nen mua .",0.0,184
+185,chán,1.0,185
+186,"game hay nhưng mà hãy thêm các chức_năng chém lang , cầm hai tai , như trên minecraft pc thì sẽ hay hơn nhiều",1.0,186
+187,giao thiếu sản_phẩm quà tặng,1.0,187
+188,bộ trị mụn thật_sự có côg dụg giảm bớt . nhưng sản_phẩm này muốn côg dụg thì da mặt ít mụn thì sẽ có tác dụg . da mặt mình ít mụn nên dùng cảm_thấy dần giảm bớt .,0.0,188
+189,tại_sao để là tặng mút mà lúc giao lại không thấy ạ ?,1.0,189
+190,làm_ơn sửa cái con kaz dùm hộ tôi đéo mẹ nó quá là lỗi ! ! ! các bác định cho nó thành brutus 4.0 à ? ? khả_né bất_tử luôn thì đánh_đấm gì ? ? ? ải thì cho lực chiến ngất_ngưởng không công_bằng với người chơi ừ thì game afk nhưng chỉ afk thôi ấy thì chả vui tí gì cả tướng thì có tướng yếu_xìu tướng thì khoẻ . bài đánh_giá đầy_đủ,1.0,190
+191,quan mang rat được,0.0,191
+192,"bình_chọn 3 sao vì đồ_hoạ cực đẹp , chơi được thôi chứ không lâu_dài bởi_vì các nhiệm_vụ quẩn_quanh chặt cây , trồng cây mới_rồi quét sân các thứ chán lắm rồi . mà puZle game này cũng không có kiểu ghép 4 cái thì được một cái tên_lửa nổ một cái khác ý , cái đấy mình cũng không thích nếu mà các bạn thích đồ_hoạ củ . bài đánh_giá đầy_đủ",1.0,192
+193,chât lượng 5star,0.0,193
+194,game quá tệ chơi thua fishdom rất nhiều . cửa quá khó lượt quá ít . không thì cửa dễ cho trái nổ thì nhiều cửa khó ra màu tào_lao không ghép được trái nổ nào . một cửa có_thể chơi trên 10 mạng không qua . sử_dụng hết các quyền thì hên lắm sẽ qua . bởi xoá game choi fishdom còn hay hơn,1.0,194
+195,ứng_dụng này rất giảm mình đọc đúng mà cho say,1.0,195
+196,"đã nhận được hàng , hạn sử_dụng ok , còn hơn 2 năm nhưng sản_phẩm mình nhận được phần mã check sản_phẩm chính hãng bị lột mất một góc , mất 13 mã .",1.0,196
+197,54 không mặc cỡ lồn mà bị chật,1.0,197
+198,"giao hàng nhanh , sản_phẩm_chất_lượng . tin_dùng !",0.0,198
+199,vải tốt,0.0,199
+200,"xin chào nhà phát_hành game liên_quân . tôi rất vui khi được biết đến tựa game này và tôi đã có những trải nghiệm rất thú_vị về nó . nhưng gần đây tôi không còn cảm_giác thú_vị nào khi tôi vào chơi game này . lí_do chắc nhà phát_hành cũng hỉu đó là game ngày_càng lag , dung_lượng ngày_càng trở_nên nặng . bài đánh_giá đầy_đủ",1.0,200
+201,"mình rất thích những sản_phẩm của rohto đặt biệt là nhãn_hiệu C và hiện_tại là tuýp thứ 2 rồi , tàn_nhang của mình lâu năm nhưng thấy mờ hẳn .",0.0,201
+202,"nguyên đai nguyên kiện , xài rất được .",0.0,202
+203,"mình sẽ giải_thích hộ các bạn chưa biết đặt tên nhé . tên nhân_vật chỉ có tối_đa là 8 ký_tự nao gồm cả dấu khoảng_cách , nếu mặt_nạ đặt tên chưa tới 8 ký_tự mà nó hiện lên là không được để trống thì mặt_nạ hãy kiểm_tra lại như sau . ví_dụ bạn đặt tên là gia_bảo cả dấu cách và ký_tự đều chưa quá giới_hạn cho phép . bài đánh_giá đầy_đủ",0.0,203
+204,bớt buF ẩn cho admin đi . chơi khoá aC người chơi nạp game mà chưa chơi tới 7 ngày . mới quá trời 39 mà thằng admin vl45 trong khi xây thành mất 18h .,1.0,204
+205,"mới đặt hôm_qua mà hôm_nay đã có rồi , giao hàng cực nhanh . hàng mới nguyên seal luôn . với mức giá_như thế_thì không đòi_hỏi gì thêm nữa . rate 5star ủng_hộ cửa_hàng",0.0,205
+206,"thật tuyệt_vời . cảm_ơn đội_ngũ xây_dựng game . mình có một thắc_mắc nhỏ . ở phần luyện đọc kan gì i n3 bài 18 , 届け出すđược viết lại là とどけでる . nó không được thống_nhất .",0.0,206
+207,"áo đẹp , vải tốt nhưng giao nhầm một áo không đúng cỡ . trừ 1star .",1.0,207
+208,"đặt đơn mà không báo cho mình tình_trạng quán đóng_cửa còn thông_báo là chờ đến 75 phút để lấy đơn , ai_đời dư thời_gian để ngồi chờ mấy tiếng đồng_hồ để giao đồ ăn , đã vậy coi_thường khách_hàng nhắn_tin mà không hề trả_lời một cái nào , trốn_tránh không giải_quyết huỷ đơn hàng cho khách rồi còn để tài_xế . bài đánh_giá đầy_đủ",1.0,208
+209,vải đẹp giống hình giá tốt,0.0,209
+210,"nhân_viên lex việt nam có_thể không_trung quốc thực , mình nhận khuyến_mãi theo sản_phẩm đả đặt có 3 cái móc gắn chìa_khoá nằm trong 3 bịch riêng_biệt , mà khi nhân_viên giao thì đủ 3 bịch nhưng chỉ có 2 cái móc gắn chìa_khoá . và một cái bịch không , khi mình hỏi tại_sao thì nhân_viên giao hàng mới lấy trong thùng hàn . bài đánh_giá đầy_đủ",1.0,210
+211,chất vải được nhưng form hơi rộng mặt_nạ mua nhớ giảm một cỡ nhé,1.0,211
+212,"tôi mới cho bé học thử thấy bé rất thích thu và say_sưa với các bài_học . mỗi bài_học đều kèm các hình rất thật giúp các bé dễ hình_dung , cuối mỗi bài có bài cho bé ktra kiêbs thức học . tôi rất hài_lòng về monkey",0.0,212
+213,admin có_thể thêm phần giải_thích nghĩa của từ_vựng bằng tiếng nhật được không ạ . trước em thấy phiên_bản cũ thì phía dưới mỗi từ_vựng đều có kèm phần giải_thích nghĩa và ví_dụ của từ mới như trong từ_điển mà giờ phiên_bản mới không thấy có nữa ạ . rất mong admin bổ_sung thêm phần này ạ . ad cho mình xin liên_kết b . bài đánh_giá đầy_đủ,1.0,213
+214,"nhãn cỡ may cẩu_thả , form dáng xấu tệ , tỉ_lệ không cân_xứng , xấu ( đáy thì quá dài , chiều dài quần thì quá quá ngắn khiến cho người mua không hài_lòng , mình chỉ 51 cân nhưng mặc cỡ lồn bị chật chỗ đùi chân và lưng quần , dài quần thì ngắn . tỉ_lệ dài đáy = 13",1.0,214
+215,"lần trước mình có góp_ý không biết admin có hiểu ý mình không , nhưng lần cập_nhật gần đây về mảng sticker nó chưa ổn lắm . ý mình là tạo một chủ_đề ví_dụ lắc_đầu thì người dùng ( người dùng ) có_thể tự thêm các sticker vào cái mục đó những hình mà họ cho là phù_hợp , và tên chủ_đề người dùng có_thể tự đặc tên như bỏ . bài đánh_giá đầy_đủ",1.0,215
+216,ứng_dụng rất tuyệt_vời . vừa học vừa có trắc_nghiệm để ôn_tập .,0.0,216
+217,vai không giong nhu mo ta thun 4 chieu ma giao vai kate qua te,1.0,217
+218,"thật_sự mà nói thì cửa_hàng E chỉ là một ứng_dụng giao_dịch mua_bán nên không kiểm_soát được hết các cửa_hàng buôn_bán trên đó như thế_nào ? ? đặt_hàng 3 - 4 cửa_hàng thì tất_cả các cửa_hàng báo hết hàng , hết thì đừng đăng mà đăng lên thì phải trách_nhiệm một_chút , không có hàng thì bảo khách huỷ đơn , hoặc đổi đơn_vị vận chu . bài đánh_giá đầy_đủ",1.0,218
+219,dép đẹp y hình nha,0.0,219
+220,không thấy kèm hàng khuyến mai : (,1.0,220
+221,"thật_sự mà nói thì game này rất rất hay và chất_lượng , hình_ảnh và đồ_hoạ nhân_vật rất đẹp . nhưng có_lẽ vì cập_nhật hơi nhiều nên game sẽ có ít người chơi vì máy họ không có đủ dung_lượng để cập_nhật . mong game sẽ có ít lần cập_nhật hơn . cảm_ơn ạ .",1.0,221
+222,dép đẹp giá rẻ mua lúc giảm_giá mọi người nên mua cho cửa_hàng nha mình thấy vừa_ý tặng 5star,0.0,222
+223,máy chưa được kích_hoạt bảo_hành,0.0,223
+224,van con gàu,1.0,224
+225,yêU ! ! ! ! đủ sạch nhưng không khô như chai xanh dương . còn có giảm mụn không thì dùng một thời_gian mới đánh gia được,0.0,225
+226,"nó lỗi và xàm quá , bất_mãn quá đi . . ad làm mệt thôi_thì để mẹ nó phiên_bản cũ đi , không cái tự_nhiên đi cặp nhật phiên_bản mới chi , rồi giờ lỗi tùm_lum từa lưa như zây mà khắc_phục mãi vẫn chưa được , giờ lỗi đăng_nhập , rồi đăng_nhập không được , lại xoá , xoá xong tải lại vẫn không được , làm mấy chục lần vẫn ch . bài đánh_giá đầy_đủ",1.0,226
+227,giao dung mau y hình_ảnh đẹp rất voi gia tien,0.0,227
+228,cũng ổn . mong aD thêm tính_năng . nếu khoá màn_hình chương_trình vẫn phát được nhé,1.0,228
+229,tuyệt_vời ! ! ! sản_phẩm giúp người tự học có môi_trường thực_hành đủ 4 kỹ_năng nghe nói đọc viết,0.0,229
+230,đẹp lắm ạ sẽ mua thêm của cửa_hàng lâu_dài,0.0,230
+231,hàng ưng lắm . tôi cảm_ơn,0.0,231
+232,hôm trước chơi nó bị hồng che hết nhân_vật xoá đi tải lại thì bình_thường lại hôm_nay lại tiếp_tục bị như_vậy mong admin khắc_phục sớm lỗi này .,1.0,232
+233,không biết đã dùng đến chai thứu mấy rồi lúc trước mình cũng đã dùng qua rất nhiều loại nhưng ưng nhất vẫn là loại này 🤩,0.0,233
+234,giao sai màu,1.0,234
+235,dầu_gội gây khô tóc nhiều giống như dùng chất tẩy vậy đó : ( ( (,1.0,235
+236,vải đẹp . hag được,0.0,236
+237,đã nhận nguyên seal,0.0,237
+238,sản_phẩm nhãn_hiệu sOthing sữa_dưỡng hộp bị không,1.0,238
+239,sản_phẩm đóng_gói tỉ_mỉ . ưng,0.0,239
+240,"sau 30p trải nghiệm thì quay lại cho 5star ngay và luôn . vì_sao á ? vì ứng_dụng này có_thể tạo cho tôi sự hứng_thú với việc học ngay từ khi bắt_đầu . bảng chữ_cái có viết mẫu từng nét và âm_thanh đọc khiến tôi ghi_nhớ sâu , cùng với đó thông_qua những bài luyện_tập tôi có_thể giúp mình quen và phản_xạ . bài đánh_giá đầy_đủ",0.0,240
+241,nhà sản_xuất nên dừng mở sinh_viên mới . vì người chơi không nạp tiền . cứ nhảy sinh_viên lung_tung . cuối_cùng sinh_viên đầu ít người chơi . nên bổ_sung mở_rộng tính_năng bằng_hữu giữa các người chơi với nhau . mở_rộng cạnh_tranh chiến_đấu và tương_tác giữa các người chơi với nhau . thân gửi,1.0,241
+242,game chơi hay . chỉ có mỗi cái tự nhặt không được . auto nhặt thì người_ta nhặt hết đồ luôn rồi . rồi thêm cái map boS giành cho vip4 . game này chỉ giành cho anh_em nạp tiền chơi . có tiền vào làm cha,1.0,242
+243,sao tải về rồi ma không đăng_nhập được . phải có mật_khẩu là như thế_nào vậy ạ ? hỏi aP ma không ai trả_lời . - _ -,1.0,243
+244,"đã nhận hàng nguyên seal , phụ_kiện đầy_đủ . nhờ cửa_hàng kích_hoạt bảo_hành nhanh dùm . cám_ơn",0.0,244
+245,chỉ giao sản_phẩm không kèm quà tặng . vui_lòng kiểm_tra và phản_hồi giúp tôi .,1.0,245
+246,đặt_hàng đến ngày dự_kiến giao hàng thì nhận được thông_báo sẽ giao chậm 4 ngày . đợi 4 ngày xong lại có thông_báo không còn sản_phẩm trong kho . vậy tại_sao không thông_báo hết sản_phẩm từ lúc đặt_hàng đi để tôi khỏi mất thời_gian hơn một tuần liền . thật thất_vọng với cách làm_việc của các bạn . đây là lần cu . bài đánh_giá đầy_đủ,1.0,246
+247,hang đẹp dung nhu quang cao,0.0,247
+248,"đặt 2 cái : một cái đen vải dày đẹp , ok . cái đỏ vải mỏng , khô , cứng_nhắc . nếu được thì cửa_hàng đổi cho cái đỏ đi nhé",1.0,248
+249,"tôi đã rất thích chơi game liên_quân nó giúp tôi giải_toả căng_thẳng khi xong công_việc . nhưng càng về sau , những bản cập_nhật mới cứ thế cứ thế khiến cho game ngày_càng chậm , từ lúc vô game đến lúc đánh hầu_như mọi thứ đều không còn nhạy , nó chậm đi rất nhiều . chiếc samsungprime7 của tôi đã từng rấ . bài đánh_giá đầy_đủ",1.0,249
+250,xấu vãi chưởng,1.0,250
+251,chất tệ lắm,1.0,251
+252,mặt mình trước khi dùng chỉ có 2 cục mụn thôi . . từ khi bắt_đầu sử_dụng sản_phẩm này . . mụn hiện lên rất nhiều ở 2 bên má và tráng . . chắc do da mình không hợp với loại sản_phẩm này rồi,1.0,252
+253,chất_liệu vải tốt . tôi rất thích . . anh sip dễ_thương,0.0,253
+254,"tại_sao vô mục hội_thoại , tôi ghi_âm lại phát_âm nhân_vật rồi máy đứng luôn . ra vô nhiều lần vẫn không hội_thoại được . . : (",1.0,254
+255,rất hài_lòng với sản_phẩm đường may thật chắc không làm tôi thất_vọng mà 5star nhà_cửa_hàng,0.0,255
+256,kem xài được nhưng không có kèm quà tặng giống quả người cáo,1.0,256
+257,chị nhận hàng rồi đẹp và được lắm,0.0,257
+258,"trời moá , hàng giả . cứ tưởng giảm_giá thiệt , nào_ngờ .",1.0,258
+259,"điện_thoại samsung galaxy m21 đáng được nhận 5star về chất_lượng vì có màn_hình hiển_thị đẹp , pin cực khủng , chip xử_lý khá mượt , camera ổn . nhưng cho 4 sao vì lazada giao hàng khá chậm , phiếu giảm_giá mua 2 triệu được giảm 50 ngàn phí vận_chuyển thì không_thể áp_dụng được ( cả 2 lần mua 2 điện_thoại này đều không được ! thất_vọng với lazada ! ) và nhà vận_chuyển thì quá tệ , chậm_trễ và cẩu_thả : hộp đựng sản_phẩm bị móp xẹp thảm_hại . may mà chiếc điện_thoại không bị hề_hấn gì .",1.0,259
+260,được như_vậy thì giờ_đây đã từng có,0.0,260
+261,"mình dùng 2 tháng rồi , không thấy tác_dụng nhưng mình sẽ mua lại vì có cảm_giác tinh_chất thấm vào da , thấy cũng yên_tâm lắm .",0.0,261
+262,"sản_phẩm gel trị mụn không có tác_dụng nhiều vẫn đang trong quá_trình sử_dụng . sửa rửa mặt thì quá được rất hợp với da thường , còn lọ dung_dịch thì làm da bóng lên mà không có dầu cũng ok , quà tặng thì chất rồi phim thấm sạch cực_kì , nói_chung thì các sản_phẩm trị mụn còn phải dựa vào làn da , cơ_địa nữa , có người không hợp có người hợp .",0.0,262
+263,hàng đẹp lắm đấy cho cửa_hàng 5s riêng shipber như cức gọi hm nay giao mà quá ngày sao mới giao,1.0,263
+264,"hàng đẹp lắm luôn hơn cả mong_đợi , có chữ crocs nhìn như chính hãng ạ , cửa_hàng tư_vấn nhiệt_tình , em sẽ ủng_hộ cửa_hàng lần sau .",0.0,264
+265,"học online kohi này rất tệ tặng sách thì không có bản tiếng việt , phần nghe thì tải chậm nghe có câu sai , ngữ_pháp video cũng tạm không hay lắm nhưng không có bản tiếng việt và từ_vựng cũng không có bản tiếng việt quá tệ cho một trung_quốc tâm dạy tiếng nhật kohi phải nói là xếp từ dưới lên trên . cho một . bài đánh_giá đầy_đủ",1.0,265
+266,game gì bấm vào màng hình không ăn . y chang_chang bị liệt cảm_ứng . thua cho 1star,1.0,266
+267,tốt . . giao hàng nhanh . . kỹ_càng . . sd hiệu_quả,0.0,267
+268,"thật_sự cửa_hàng E xứng_đáng 5star nhưng hệ_thống aP còn tệ quá . trong quá_trình mở aP thì thường_xuyên bị lag , phản_ứng chậm mặc_dù dùng điện_thoại có cấu_hình cao hay thậm_chí khi sử_dụng điện_thoại mà có cấu_hình thấp hơn chút thì bị văng ra ngoài . hy_vọng cửa_hàng E điều_chỉnh sự thiếu_sót này để ngườ . bài đánh_giá đầy_đủ",1.0,268
+269,"sữa rửa mặt chỗ nắp không có bì bịt kín , mà kêu có quà tặng mà không có",1.0,269
+270,"đầm , vải đẹp , chỉ có cách may chưa kéo lắm nhưng như_vậy thì cũng được rồi ,",1.0,270
+271,"lần đầu_tiên phải bình_chọn sao thấp ntn . mua mấy lần trên lazada nhưng đây là lần tồi_tệ nhất . đóng_gói nham nhỉ không hộp , bọc giấy_bóng k . sản_phẩm không biết là đã mở ra dùng hay chưa luôn . mua 2 sản_phẩm thấy ghi kèm quà tặng không có cũng không nói nhưng không quá mức tạp_nham chắc thương_hiệu thấy thêm_bớt một khách_hàng không sao nên làm_ăn kiểu nham nhỉ thế này . lần cuối_cùng mua tại đây",1.0,271
+272,"cũng được , cho 5star lấy tinh_thần , chứ cầy lâu cả mệt quá trời ấy . đề_nghị lên live cao thì cho 2star 3star đi , chứ đéo mẹ mỗi ván 1star xong ra sửa ti_tỉ thứ thì mạt_kiếp mới xong . cầy mỗi bàn được 50 đến 80 vàng , vậy_mà hồi lực hết 900 vàng . chỉ muốn xoá cmnd mà tiếc công cầy : ( ( ( (",1.0,272
+273,hàng được shiPer cũng oke . . mặt_nạ ủng_hộ cửa_hàng nhé,0.0,273
+274,"trò_chơi rất vui tôi rất thích , rất tuyệt_vời",0.0,274
+275,"lâu_nay mình vẫn dùng bình_thường nhưng bỗng_dưng mình lại không vào được nữa , lúc vào thì ứng_dụng hiện màu trắng rồi thoát ra . mình cũng đã thử khởi_động lại máy và xoá đi tải lại nhiều lần nhưng không được . mình không biết là do ứng_dụng hay do máy nữa ? ? ? nếu là do ứng_dụng thì mong ứng_dụng sẽ mau . bài đánh_giá đầy_đủ",1.0,275
+276,"quần đẹp , xịn sò , giá rẻ , giao nhanh",0.0,276
+277,"cấu_hình , camera , kích_thước như vivo u10 , nắp sau hơi xấu . chế_độ sạc nhanh rất với vivo u10 chỉ bắng 12 . máy hơi nóng , pin hình_như tụt hơi nhanh hơn u10 . ,",1.0,277
+278,"chưa cho học thử đã bắt đăng_kí đầy_đủ thông_tin . vào học thử chỉ được mở 3 bài mà lỗi choe chét , thu âm và luyện nói bị lỗi không chạy . danh_sách câu quá nghèo_nàn , một bài_học chỉ luyện có một câu . vậy_mà hết 3 bài bắt mua tài_khoản vip thì mua sao được",1.0,278
+279,không có khuyến_mãi kèm theo .,1.0,279
+280,"game gặp lỗi xác_nhận tài_khoản để nhận thưởng , thời_gian là 10 phút , nhưng khi vào và trò_chơi bảo rằng tôi khôg thể chơi nếu không xác_nhận . nhưng khi xác_nhận thì lúc đó thời_gian là 00 : 00 , tôi gặp lỗi network thời_gian out . cuối_cùng tôi không_thể đăng_nhập vào trò_chơi được . hãy giúp tôi . cảm_ơn ! ! ! !",1.0,280
+281,làm_sao kích_hoạt bảo_hành vậy cửa_hàng,0.0,281
+282,"váy đẹp , ko lỗi , y hình , sẽ ủng_hộ cửa_hàng tiếp",0.0,282
+283,giao hàng đúng mẫu giống hình rất đẹp nhé cửa_hàng,0.0,283
+284,"sao tôi không muốn tải mà nó vẫn ở trên điện_thoại làm tôi rất khó_chịu . vá chỉ có_thể tắt ứng_dụng chứ không_thể xoá cài_đặt , rất là nặng máy và phí hết tiền tôi nạp trên máy .",1.0,284
+285,mẫu y hình . khoang 40 đến 45ky mặt rat đẹp . mìn 50ky . mặt không vừa . quần ngắn_ngủn . aoa thì ôm cái mông .,1.0,285
+286,"sau nhiều bản đăng hạn sử_dụng thì bản này cũng tương_đối ổn . thành_phần chơi gian_lận cũng giảm đáng_kể . nhưng có một_số lỗi như xuống xe ở v = 8kmh vẫn bị knock , lag map , đồi , súng bắn kẹt đạn . vấn_đề này tuy xảy ra không nhiều nhưng cần khắc_phục . còn lại thì game vẫn ổn . cảm_ơn nhà phát_hành . chúc các anh thành_công",1.0,286
+287,game chả ra không gì mà chỗ nào cũng thấy qc . qc để chôn mẹ chúng_mày nhiều thế à . mn đừng có tải về mất_công xoá đi .,1.0,287
+288,tôi mua máy và cảm_thấy thất_vọng . màn_hình không lớn như giới_thiệu . sạc không phải là sạc nhanh .,1.0,288
+289,chai trước mình xài vừa sức lên da sẽ hơi nóng xíu . mà chai này mình sức lên không có cảm_giác nóng là sao ạ,0.0,289
+290,kích_hoạt bảo_hành điện_tử giùm mình nhé cảm_ơn cửa_hàng,0.0,290
+291,"đầm đẹp , đúng cỡ , đúng màu , giá này mà được đầm vậy quá ổn , hàng việt nam nên mình rất thích , giao hàng nhanh , cám_ơn",0.0,291
+292,"ứng_dụng này cũng hay ! nhưng mà không biết phải do mạng yếu hay không mà khi muốn dịch những câu tiếng anh hoặc tiếng việt thì có khi phải chờ khá lâu và sau đó dường_như không_thể dịch được những câu ấy . rất mong các bạn gần_xa trên đất_nước việt_nam , các bạn đất khách đang tìm_hiểu thêm về tiếng v . bài đánh_giá đầy_đủ",1.0,292
+293,ứng_dụng này rất hữu_ích lắm đó mọi người,0.0,293
+294,sài tốt . đúng sản_phẩm . mùi hương dễ_chịu,0.0,294
+295,hộp ọp_ẹp . mất seal . nắp hộp như đã bị mở nhiều lần . chưa dùng thử nên chưa biết hiệu_quả .,1.0,295
+296,"giá_cả không ổn_định , mai thế này , hôm sau thế kia , định_vị cũng không chính_xác . thêm một cái nữa là , một_số tài_xế như bố thiên_hạ_vậy , nhận quốc không thèm chạy , gọi điện không nghe , có người 10p sau mới chạy , đây không phải là 1 , 2 lần , đề_nghị admin cập_nhật lại nha , có lần 10h tối bắt xe , 5p sau gọ . bài đánh_giá đầy_đủ",1.0,296
+297,sản_phẩm cũng tạm ổn . đặt màu trắng lại giao màu đen . vấn_đề này đã nhận nhiều bình_luận như_vậy . mình hy_vọng mình sẽ không bị tình_trạng như_vậy . nào_ngờ . . có một_tí thất_vọng .,1.0,297
+298,áo đẹp lắm cửa_hàng ơi các bạn yên_tâm mua đi bán rẻ mà đẹp nữa được,0.0,298
+299,ứng_dụng xài không ổn_định tí nào . cứ đang lướt được một_chút là văng về lại trang chính vì_vậy mong nhà phát_hành điều_chỉnh lại cái sự_việc này vì nó làm tôi cảm_thấy rất không hài_lòng và 1star là đánh_giá của bản_thân tôi về ứng_dụng này,1.0,299
+300,"gia hàng nhanh , sản_phẩm đúng mô_tả chính hãng , da mụn nên mua xài lần đầu . hi_vọng có kết_quả tốt . cám_ơn cửa_hàng",0.0,300
+301,sài thích lắm ạ giá lại rẻ,0.0,301
+302,mình chỉ cần dịch online . nhưng tại_sao cứ bắt phải cấp quyền truy_cập hình_ảnh với thông_tin của mình để có_thể lưu dữ_liệu dịch oFline_vậy ? ? ? không đồng_ý là không cho dùng luôn ! ! ! nếu vậy mình hứa là sẽ xoá ứng_dụng này và bỏ luôn cả aP luyện nghe tiếng anh đã đòi mình cài tflat đi ha .,1.0,302
+303,đúng chất vải,0.0,303
+304,xài tốt lắm mặt_nạ ạ,0.0,304
+305,giao hàng rất nhanh nha . sản_phẩm chưa xài nên chwua biết nè . . nhưng có mùi thơm . đóng_gói cực kĩ,0.0,305
+306,"ứng_dụng rất tuyệt_vời nhưng còn rất nhiều thiếu_sót . ví_dụ như cập_nhật danh_sách những người đã mời để có_thể xoá , đôi lúc mình đã mới rất nhiều bạn_bè nhưng họ không chấp_nhận , sau đó danh_sách mời đã đầy thì không_thể mời kết_bạn được nữa . rất mong sẽ được hồi_âm từ quả nó trị ứng_dụng .",1.0,306
+307,hợp giá tiền,0.0,307
+308,sản_phẩm dùng tốt nhat truọcp sử_dụng nhưng tóc rat khô nen can phải kèm theo dầu xả,1.0,308
+309,không có quà tặng chỉ thấy sữa rửa mặt thôi,1.0,309
+310,cung duoc . hop gia tien,0.0,310
+311,hàng giao nhanh . đóng_gói kỉ ạ . hàng được lắm cửa_hàng,0.0,311
+312,"tài_xế quá cứng_đầu khách đã yêu_cầu xem bản_đồ đi cho đúng nhưng không chịu cuối_cùng chở khách đi lạc , khách phải tự mua 3g bật gOgle map để chỉ đường cho tài_xế . làm mất rất nhiều thời_gian của khách , lại vào cái thời_tiết trưa nắng chiều mưa rất bực_mình map bên grabfOd thì lừa_đảo , lúc đầu thì 3 . bài đánh_giá đầy_đủ",1.0,312
+313,không hiện những người đã xem story của mình sau 24h là một bước đăng hạn sử_dụng lùi của phiên_bản này . ngay cả chính chủ còn không xem được ai đã xem story của mình thì còn chơi ins làm gì nữa ? không_lẽ đợi cuối giờ của 24 tiếng vô story mình xem những_ai đã xem à ? vì sau 24h có còn xem được nữa đâu ! ai làm b . bài đánh_giá đầy_đủ,1.0,313
+314,hàng được lắm 😊,0.0,314
+315,"tôi cho 5star vì game này rất hay . tôi có_thể tập đàn , có_thể giải_trí và game này chơi cũng hay nên mong nhà sản_xuất cho thêm nhiều game hay như thế này nữa nha 😀 tôi thích lắm đấy .",0.0,315
+316,mịn nhẹ cover khá tốt . kiềm dầu cũng rất tốt mua bản đầu nhấn dễ lấy kem hơn bản đổ . rất hài_lòng . mình nghĩ màu son hợp với người đứng_tuổi hơn,0.0,316
+317,tuyệt_vời !,0.0,317
+318,nó rất vui nhưng hơi lag do điện_thoại tôi khá yếu nên điện_thoại của bạn mà mượt thì tải thử đi nhé nó sẽ gây nghiệng đó - . -,0.0,318
+319,"khuyến_mãi thì rẻ đó . được vài nhân_viên thân_thiện . nhưng mà rất với grab với go viet thì thua xa . mật_độ xe vắng như chùa bà đanh , mở bản_đồ lèo_tèo vài anh áo vàng thoắt ẩn thoắt hiện như bóng_ma . chứ grab bật bản_đồ lên xe người_ta đứng đông như mạng_nhện . xe đã ít mà đặt thì tài_xế không thèm nhận cuốc . bài đánh_giá đầy_đủ",1.0,319
+320,"sữa rửa mặt giá thấp nhưng chất_lượng rất ổn nha , sau khi sử_dụng thì mặt không bị khô hoặc rít , hiệu_quả ngăn_ngừa mụn cũng có , giao hàng nhanh",0.0,320
+321,"ứng_dụng rất hay , người dân nên sử_dụng để chung tay một phần_nào đó chống dịch_bệnh . mong ứng_dụng sẽ được quả người bá đến tất_cả mọi người để biết được một ứng_dụng tuyệt_vời như vậy 👍",0.0,321
+322,dùng ios để chơi trên ipad xong liên_kết với tài_khoản facebOk sau đó tải game chơi trên điện_thoại android đăng_nhập lại vào tài_khoản facebOk thì lại phải chơi lại từ đầu . rất khó_chịu khi ios và android đều kết_nối với cùng một tài_khoản facebOk nhưng lại không được chơi chung . nếu muốn chơi trên . bài đánh_giá đầy_đủ,1.0,322
+323,vải đẹp chất_lượng tốt đáng với số tiền nên ủng_hộ cửa_hàng,0.0,323
+324,áo đẹp . có đìu màu nhạt không phải đậm như hình . áo bé rộng mặc được khá lau . sản_phẩm phù_hợp với giá . đường may chắc_chắn .,1.0,324
+325,"- chức_năng huỷ không có tác_dụng - ứng_dụng đôi_khi không phản_hồi hoặc chậm - liên_hệ với tổng_đài điện_thoại phải chờ lâu nhưng không có tổng_đài_viên nhấc máy - có vẻ hệ_thống xử_lý đơn hàng chưa được tối_ưu , mất nhiều thời_gian - nên thiết_kế nút đặt_hàng ở một trang riêng , và nằm ở bước cúô . bài đánh_giá đầy_đủ",1.0,325
+326,khuyết_điểm : aP chạy chậm hơn trước rất nhiều . sản_phẩm còn hạn_chế không đa_dạng như cửa_hàng E và nhiều nơi khác . nhầm sản_phẩm_chất_lượng không xứng với giá tiền . đôi_khi mua phải đồ ở trong kho quá lâu nên nhìn rất mất thẩm_mỹ . nhiều mặt_hàng bán với số_lượng nhiều không_thể mua_lẻ được . ưu_điểm : g . bài đánh_giá đầy_đủ,1.0,326
+327,tại_sao không gửi hàng khuyến_mãi ạ,1.0,327
+328,chưa biết có đỡ mụn không nhưng giao hàng siêu nhanh 💖,0.0,328
+329,chuẩn cỡ nha .,0.0,329
+330,được đồ y_như hình cửa_hàng giao hàng lẹ,0.0,330
+331,"dùng tốt , nhưng có lỗi là mình nhắn_tin với bạn_bè thì cả mình và người nhận không bao_giờ nhận được chuông báo tin nhắn mới cho tới khi vào aP . phải nhá máy gọi để điện_thoại đổ chuông , rất phiền",1.0,331
+332,54 không mặc cỡ lồn mà bị chật,1.0,332
+333,"cửa_hàng giao hàng nhanh , đóng_gói kĩ nữa sẽ ủng_hộ cửa_hàng 👍",0.0,333
+334,bhe gì d gì sb gì maBsHs chất_lượng tốt đóng_gói đẹp vhs gì d gì đnbd gì kbd gì drdaN,0.0,334
+335,hàng tốt như hình,0.0,335
+336,mọi người nên chơi trò_chơi đánh đàn nhá trò_chơi này chơi rất vui nhưng mọi người chơi ít thôi không xe bị hỏng mất đấy : : : còn nhiều trò vui hơn như là chạy và còn nhiều trò_chơi khác vui hơn các bạn nhé các bạn nhớ nhé,0.0,336
+337,giao hàng nhah dong goi can than,0.0,337
+338,mua 5 đôi mà gởi có 2 đôi dạy cửa_hàng,1.0,338
+339,các bạn không xứng_đáng được 1star nữa . mấy nay anh_em đấu_giá sao để hoài_vậy không thì ngưng_đấu lại . hết chịu được,1.0,339
+340,"hàng tốt , mới dùng chưa thấy lỗi gì , nguyên seal , điện_thoại đã dán màn_hình trước và không có ốp lưng tặng kèm .",1.0,340
+341,hàng mới chưa khui ! but bảo_hành thế_nào cửa_hàng ?,0.0,341
+342,trên ứng_dụng tôi có_thể nhắn_tin với bạn_bè . còn có_thể theo_dõi thần_tượng của mình nhiều hơn nên tôi thấy thích_ứng_dụng . cũng có một_vài lỗi nhỏ nhưng tôi vẫn cho 5star để ủng_hộ nhà_sản suất có động_lực làm sản_phẩm tiếp_theo tốt hơn . cảm_ơn rất nhiều ạ ! ! ! !,0.0,342
+343,"mình đã dùng được gần một tháng , chưa thấy trắng lên . rất với giá tiền , chất_lượng như_vậy cũng khá hài_lòng",1.0,343
+344,son lên môi đẹp .,0.0,344
+345,"ứng_dụng rất tuyệt_vời , nhưng liệu nhà phát_hành có_thể cải_tiến game cho các game thủ không có tiền nạp những đồng xu miễn_phí hay đại_loại trong game được không chứ như vậy tội anh_em game thủ chúng_tôi lắm .",1.0,345
+346,"khá hay ! dễ kiếm kim_cương , nạp cũng vừa_phải , trả tiền thì đương_nhiên mạnh , nhưng dân cày cũng có_thể chơi được . nên có những hoạt_động nhỏ khuyến_khích các bạn frE player bên cạnh những event nạp tiền để họ có động_lực , và như_vậy có nhiều nông_dân thì các địa chủ ptp mới có chỗ để thể_hiện , n . bài đánh_giá đầy_đủ",0.0,346
+347,"hàng chính hãng , nguyên seal , cửa_hàng giao hàng cực nhanh và đã kích_hoạt bảo_hành máy cho khách sau một ngày nhận hàng , cảm_ơn cửa_hàng !",0.0,347
+348,"rất tuyệt , nên thêm dịch nghĩa nhiều chỗ cấu_trúc , ví_dụ , . cho người học dễ hiểu hơn",1.0,348
+349,mình mua 2 lọ nhưng không hề nhận được quà tặng kèm,1.0,349
+350,positive mọi người rất may_mắn khi biết đến game này đó | game này giúp mọi người giải ( sì trét ) | âm_nhạc có_thể thoả_mãn được tất_cả mọi người 😄 | và còn có_thể chơi chung với người khắp nơi 😘 😘 hay lắm đó | nhà sản_xuất 😘 😘,0.0,350
+351,đồ tệ lắm mỏng sút chỉ không ra_gì,1.0,351
+352,giao hàng nhanh đong gói cẩn thật sẽ trung quốc thành với cửa_hàng lâu_dài ( ),0.0,352
+353,đồ xinh xĩu lại còn đúng mẫu nhưng mà vải hơi thô nhưng khá được,1.0,353
+354,đặt cỡ 35 mà giao cỡ 38,1.0,354
+355,"quả người cáo quá nhiều . bài hội_thoại hai , lời của サントス câu này chấm điểm khó_vậy ? 今日は 、 サントスです 。 mấy cái nút công_cụ hơi rườm_rà , giảm bớt , nên còn hai cái thôi .",1.0,355
+356,tao mà là nhà phát_triển thì tao đổ cơm cho chó ăn còn hơn . game gì đâu không hay vậy còn đứng top bảng xếp_hạng .,1.0,356
+357,"máy mới nguyên seal , hàng chính hãng . rất đáng tiền",0.0,357
+358,"mùi rất thơm , giúp tôi giảm được nhiều mụn",0.0,358
+359,"giao hàng nhanh , sản_phẩm nguyên_vẹn và rất ưng_ý trong khâu gói hàng . đã dùng thử bộ mini trị mụn nhanh , giá rẻ mà đủ ẩm không khô không đổ dầu nên mua phiên_bản fuL để trải nghiệm tiếp . cảm_ơn lazada và rohto !",0.0,359
+360,mình đã trời game này hơn một năm rồi và thấy nó rất được tốt cho các máy androi tầm trung . sẽ có nhiều bạn không_thể cập_nhật tin_tức về game được nên rất khó phổ_biến các lỗi bổ_sung thường xảy ra với máy yếu và ít ram . hiện phiên_bản hiện_tại hay đúng hơn là beta lần này có vẻ khá ổn . nếu bạn nào bị . bài đánh_giá đầy_đủ,0.0,360
+361,"mình dùng thấy được , da mình đỡ nhờn và hạn_chế mụn , mình rất hài_lòng . cảm_ơn lazada , sản_phẩm được đóng_gói cẩn_thận",0.0,361
+362,"giao hàng nhanh , hàng chất_lượng !",0.0,362
+363,máy dùng ổn nghe gọi rõ nét . hàng tốt trong tầm giá,0.0,363
+364,"game rất hay , nhưng có một điều làm người chơi khó_chịu là bị đứng ở ải boS quá nâu . nếu có_thể hãy cho chơi lại những màn trước đó để cầy đồ và kinh_nghiệm chứ đứng mãi ở một ải thế người chơi sẽ nhanh bị chán . tks chị yêu",1.0,364
+365,cao m63 mặc hơi ngắn ạ còn quần đẹp hình nè,0.0,365
+366,hàng kém chất lương . mùi côn nhiều khác hoàn_toàn va hàng trước đây mình dung . mỗi một lọ kem đựng trong túi_bóng không hộp của hãng gì ca . bảo sao không cho kiểm hàng . vứt luôn không dám dùng,1.0,366
+367,"mình thực_sự thất_vọng vì các tài_xế của be , đặt xe 4 cuốc toàn gọi điện bảo huỷ với một lý_do là xe thủng lốp . tài_xế nhận chuyến xong tự đi hoàn_thành chuyến , một lát sau thông_báo chuyến đi đã hoàn_thành trong khi mình thì đứng chờ và đang có việc gấp . vẫn chưa là gì , hôm đó vì bị nhầm giữa quận 9 . bài đánh_giá đầy_đủ",1.0,367
+368,chỉ nhận được tip kem 60ml . còn tip + 0d bên cạnh như hinh không nhan được la sao cửa_hàng,1.0,368
+369,sao không có bông mút tặng kèm positive ) ),1.0,369
+370,"xoá aP rồi , không kết_nối được với mic của điện_thoại làm_sao hoàn_thành 100 % bài nào được đây , cụ_thể khi học từ hoặc câu thì đến phần nói thì aP không nhận được giọng nói nên báo không hoàn_thành , phần thu âm nghe lại thì được",1.0,370
+371,đẹp về đúng mẫu giao cực nhanh ❤,0.0,371
+372,đóng_gói rất cẩn_thận . mở hộp ra thất rất ok . trải nghiệm thử thấy pin trâu máy xài khá tốt . giá vừa_phải . đáng để mua đó mọi người !,0.0,372
+373,đồ đẹp không chỗ nào chê,0.0,373
+374,ao mau ma đẹp vua voi gia tien,0.0,374
+375,không có thấy kèm quà đâu hết . chỉ có cây son thôi,1.0,375
+376,"sản_phẩm tốt , cửa_hàng_phục_vụ tốt từ chất_lượng dịch_vụ tới chất_lượng sản_phẩm",0.0,376
+377,sản_phẩm tốt,0.0,377
+378,"hàng tốt , nhưng không gói kỹ chống sốc . kích_hoạt bảo_hành quá sớm . chưa biết sử_dụng lâu ra sao .",1.0,378
+379,mình xài được 3 ngày và mụn cũng giảm bớt,0.0,379
+380,tôi rất thích và tôi rất tự_hào về cái này nó nghe nhạc thì tôi nói sao cũng biết nữa nhưng mà là nó rất hay và nổi_tiếng tôi cho năm sau và tôi nghĩ là mọi người dùng không sao hết mọi người dùng nha chúc mọi người một ngày vui_vẻ được mọi người tôi bye bye bye,0.0,380
+381,"tôi thích phần từ được sử_dụng trong thực_tế . rất thiết_thực , hay lắm . aP nên phát_triển phần áp_dụng vào thực_tế hoặc trong từng trường_hợp cụ_thể . ありがとうございます . 頑張りましょう 。",0.0,381
+382,sản_phẩm dùng được,0.0,382
+383,hàng đẹp in hình ủng_hộ cửa_hàng nha mn ❤,0.0,383
+384,"hôm trước mua một cái siez lồn , hôm_nay mua một cái xin_lỗi dùm cho bạn mà cửa_hàng gửi ziez xin_lỗi bằng y chan lồn mình mặc vừa luôn mình 52 không , bạn 56 không sao mặc vừa được . quần này là lồn mà cửa_hàng dán xin_lỗi vô này , thất_vọng quá bây_giờ mình phải lấy cái quần này nhưng cũng không ưng_ý vì mặc không được thoải_mái . thôi nói không với cửa_hàng rồi đó",1.0,384
+385,"game rất hay , ban_đầu chơi dễ lôi_cuốn , nhưng càng về sau càng khó và các hoạt_động bị ít đi , dẫn đến việc sẽ bị nhàm_chán , mong nph thêm một_vài phần event dài_hạn cũng như giảm_giá kc mua item trong cửa_hàng để game lôi_cuốn hơn",1.0,385
+386,"sản_phẩm sử_dụng rất tốt , nhưng sử_dụng thời_gian đầu thì nổi mụn hơi nhiều",1.0,386
+387,hàng như mong đọi,0.0,387
+388,"tôi rất vui khi chơi game magic tiles 3 no g yêu p cho tôi nhanh_nhạy hơn cũng rất hay , tôi mong các bạn sẽ được nhiều người đánh_giá 5star để gamer càng ngày_càng hot hơn .",0.0,388
+389,quá tuyệt_vời,0.0,389
+390,hàng chuẩn chính hãng rất nên mua,0.0,390
+391,tôi không biết nói trường_hợp này như thế_nào nhưng ở đây khi tôi vừa nghe được 75 % bài hát thì tự_động ngắt tiếng mặc cho bài hát vẫn chạy ( cụ_thể là những bài đã lưu trong playlist online sau một khoảng thời_gian không nghe tới ) cập_nhật thì nhiều nhưng chỉ cập_nhật thêm các tính_năng với bài mới th . bài đánh_giá đầy_đủ,1.0,391
+392,tôi thấy cung hay nhưng mấy ngày_nay toi luôn bị mất cấp rồi chơi lại từ đầu rồi hon nay cung bi như_vậy còn nữa tiền thì quá ít không đủ để mua trang_phục gì cả toi xin nhà sản_xuất xem_xét_lại kỉ càng hơn và tôi thất_vọng game lắm mong nhà sản_xuất xem_lại tôi cảm_ơn nhiều,1.0,392
+393,"nhận hàng xong bở ngở , quá đẹp",0.0,393
+394,"mua 3700k , sau một ngày nhận máy . về kết_cấu tổng_thể máy mặt lưng nhựa đơn_giản , mình đẹp rất với giá mình không chơi game nên mọi tác vụ thấy được cảm_ứng mượt hơn oPo f9 có đều cột sóng nghe gọi thấy yếu chỉ được 6 - 710 của những con oPo trời gì o mình sài . camera có thông_số cao mà chụp không đẹp tông màu nhợt_nhạt rất với oPo nhưng rất với hãng khác thì ăn đức trong tầm giá . hộp bị mốp nhưng bên trong không sao , máy nguyên sao yêu chưa kích_hoạt bh . tóm lại là hài_lòng rất với giá điểm không thích lớn nhất là sóng nghe gọi hơi bị yếu",1.0,394
+395,hơi lớn chưa gì ơi nhưng mà đp,1.0,395
+396,không bao_giờ nên chơi game này . 100 % phụ_thuộc vào may_mắn . đấu rank hạng nào cũng có trẻ trâu ăn_may 100 % hết . lỗi lag tràn_lan . nhà sản_xuất game không quan_tâm đến lỗi và lối chơi . tóm lại không bao_giờ chơi game này . chỉ được là ức_chế là chính,1.0,396
+397,"áo gia_đình may quá đẹp luôn , đặt cho cả nhà 9 cái ai cũng thích hết",0.0,397
+398,đẹp tiếp_tục ủng_hộ cửa_hàng,0.0,398
+399,"sản_phẩm mùi dễ_chịu , nhiều bọt . nhưng hình_như không hợp nên dùng bị kích_thích lên mụn",1.0,399
+400,gói hàng cẩn_thận . . hạn sử_dụng xa . .,0.0,400
+401,"game , này rất hay nhưng tôi không_thể tải về máy , tại vì khi mình tải về khi vào game thì bị khoá tất_cả tài_khoản mà mình kiếm game này rất hay nhưng tôi không_thể , khi phiên_bản mới ra thì mình bị khoá tài_khoản mình không có hack nên garena đã khoá tài_khoản mình . mình thì thích phiên_bản cũ hơn là phiên_bản mới , m . bài đánh_giá đầy_đủ",1.0,401
+402,sản_phẩm này quá tuyệt_vời luôn mọi người ạ em sử_dụng xong là thích cực luôn mọi người ủng_hộ maybiline nhé,0.0,402
+403,game khá hay . . nên cho vài tình_huống thực_tế nhiều hơn nữa để thử_thách người chơi từ tình_huống thay_vì cứ max tăng trí_lực tôi lực và chính lực . sẽ rất dễ nhàm_chán . thêm một_vài câu hỏi và cách xử_lí tình_huống mỗi người chơi sẽ kích_thích sự sáng_tạo của game . chúc game càng phát_triển và th . bài đánh_giá đầy_đủ,1.0,403
+404,trời ơi ứng_dụng gì mà thích nhiều chức_năng mà không có tiếng việt_sao mà biết xài quá trời thứ tiếng mà không có tiếng của nước việt nam việt_nam mang_tiếng là thiên long xài điện_thoại bao_trùm hết cả nước châu á luôn mà dậy không để tiếng của việt nam mấy người vợ hết già quá đi chết luôn cho vừa . bài đánh_giá đầy_đủ,1.0,404
+405,"quần gióng hình , con_gái mình thích . cho cửa_hàng 5star",0.0,405
+406,vải đẹp nhưng đường may hơi xấu,1.0,406
+407,"vải đẹp ! được lắm , shiper vui_vẻ , dễ_thương ! 5star nhé cửa_hàng !",0.0,407
+408,"dù bình_thường , yếu",1.0,408
+409,đáng_lẽ là tôi cho 5star nhưng mà : 1 . bình_luận thì chỉ được 100 kí_tự 2 . bình_luận không cho lập lại 3 . tik tok không nên cho quả người cáo xâm_chiếm 4 . có những người thừa thải trên tik tok 5 . dung_lượng lớn quá những người dung_lượng yếu không_thể tải được mong admin sửa lỗi và khắc_phục ạ ! ! !,1.0,409
+410,"không vừa , chặt quá muốn trả lại",1.0,410
+411,em cảm_ơn dungmori nhiều ạ,0.0,411
+412,dép đẹp mua thiếp,0.0,412
+413,"có một_số cái bất_tiện như không_thể huỷ đơn hàng khi vừa_mới bấm đặt , một_số nhân_viên hỗ_trợ khách_hàng không chuyên_nghiệp , và đôi lần quán không có món bạn mình đặt đã tự_ý huỷ đơn hàng , không thông_báo cho khách_hàng biết , khách_hàng không nhận được bất_cứ lời xin_lỗi nào",1.0,413
+414,quần đẹp lắm nha mọi người chỉ là hơi ngắn xíu,1.0,414
+415,"dép đẹp mềm_mại , nếu chân hơi tròn lớn hơn một cỡ sẽ mang thoải_mái . gửi cửa_hàng 5star vì hàng đẹp giá rẻ . nvgh quá dễ_thương",0.0,415
+416,"dù dày khá đẹp , hơi khó xài tí , mong_chờ màu trắng giao màu xanh . nói_chung là đẹp chất_lượng tốt , màu giao ngẫu_nhiên . shiPer vui_vẻ thân_thiện dễ_thương",1.0,416
+417,nhẹ nhừng mà đánh lên da không sáng hơn chút nào quầng thâm ở mắt cũng không mờ đi luôn chắc mua sai màu . tiếc tiền,1.0,417
+418,"game rất được . giá thì hơi đắt quá , admin nên giảm_giá bớt đi : nhưng mà vẫn rất ủng_hộ game nhé positive )",1.0,418
+419,mua mà không nhận được quà tặng kèm,1.0,419
+420,ứng_dụng tốt . bỏ vài phút ra để nói cách sử_dụng phù_hợp cho các bạn khi dùng chúng_ta nên để khoảng lường mực chừng tù 15 >> > 20 phần_trăm . nếu tăng nữa thì ngược_lại có_thể làm chúng_ta hư_hao về loa . . hụt cả phần âm_thanh khiên bị rè nên các bạn giữ mục chừng từ 15 hay 17 phần_trăm gì ấy là ổn . . bài đánh_giá đầy_đủ,0.0,420
+421,"xài nhãn_hiệu lâu rồi , rất yên_tâm khi xài sản_phẩm của nhãn_hiệu",0.0,421
+422,"game hay , đồ_hoạ đẹp không chê vào đâu được , các bạn trg game rất vui_nhộn , hoà_đồng và đặc_biệt là tôn_trọng nhau . các bạn ai chưa chơi hãy vào chơi đi đảm_bảo sẽ không phụ lòng mong_muốn của các bạn đâu .",0.0,422
+423,giao hàng gói hàng được nhưng giao nhầm màu - đặt màu 122 mà khi giao đến thì màu 130 thực_sự rất bực_mình vì lỗi này vì sản_phẩm có bảng_màu để khách_hàng lựa_chọn sản_phẩm phù_hợp với tone da của mỗi người mà_lại giao khác màu như_vậy thì dùng sao được chán cửa_hàng quá làm_ăn như này thì mất hết khách . .,1.0,423
+424,"san phẩm như hình , đóng_gói cẩn_thận",0.0,424
+425,thật_sự là nó dùng như cục cstar tôi vậy không_thể hiểu tại_sao nó lại được đánh_giá lên tận 4 ☆,1.0,425
+426,"cập_nhật nhiều , tốn nhiều dung_lượng tuy_nhiên quá nhiều lỗi . cập_nhật thường_xuyên nhưng lỗi cũ lại không khắc_phục được . không_thể hiểu được là nhà phát_hành đã làm gì ? cập_nhật phiên_bản chỉ đưa ra cái mới mà không khắc_phục cái cũ thì sớm_muộn cũng gì cũng end game .",1.0,426
+427,sản_phẩm dùng thích lắm ạ,0.0,427
+428,đã rất lâu tôi không chơi game này ! khi tải lại game tôi rất kì_vọng và hào_hứng nhưng đổi lại đó là sự thất_vọng tràn_trề . mặc_dù đã tải xong nhưng bản thông_báo gửi các game thủ không tài_nào tắt được dù có bấm kiểu nào vẫn vậy . hi_vọng game sửa_chữa lại ạ !,1.0,428
+429,"game rất hay những con vật , đồ_vật rất chi_tiết . có_thể kết_bạn và nói_chuyện với nhau rất là vui . nhưng mấy đồ mua skin cho mua bằng đậu mini hay hơn nhiều đấy . game cũng có phần hơi lag phải thoát ra vô_lại hơi hơi bị mệt và mất thời_gian mong những lỗi này sửa được và cho thêm nhiều nhiều thứ thú . bài đánh_giá đầy_đủ",1.0,429
+430,"phần audio của hack não phiên_bản cũ cần được cải_thiện hơn , bây_giờ vẫn còn rất nhiều người đang học theo sách cũ nên mình nghĩ phần audio của sách cũ cũng cần được cải_thiện . phần phát_âm từ nên tách ra với phần ví_dụ , nhạc chêm vào nghe rất buồn_ngủ . . bài nghe quá dài cộng thêm nhạc làm mình thấy . bài đánh_giá đầy_đủ",1.0,430
+431,"màu đẹp nhưng mùi không được thơm , hơi hăng . không thơm giống như loại creamy maTe trước đó mình đặt . : ( (",1.0,431
+432,hàng vừa rẻ vừa đẹp ạ cho fuL 5star vì anh shiPer rất dễ_thương ạ 😆,0.0,432
+433,hàng đẹp lắm giao hàng rất nhanh,0.0,433
+434,"đã dùng tiki mấy năm mà bây_giờ xảy ra tình_trạng rất khó_chịu . đơn hàng mình đặt 15 - 6 , đến 22 - 6 do giao hàng trễ hẹn lại tự_động chuyển thành đơn đặt_hàng mới lại bắt chờ đến 1 - 7 mới được nhận , rồi còn xoá đi đơn cũ do trễ hẹn , chưa kể tự bỏ đi sản_phẩm mình đã đặt_hàng . gọi tổng_đài thì chỉ xin lỗ . bài đánh_giá đầy_đủ",1.0,434
+435,"em nghĩ aP nên có phần tìm từ_vựng có trong sách vì phần_lớn học_viên còn đang đi học nên việc học từ mới trên lớp kết_hợp với việc học trong sách sẽ khá là mất thời_gian , mong đội_ngũ step đăng cố_gắng ra xớm tính_năng này ạ , ngoài_ra thì aP bổ_trợ rất tuyệt_vời cho sách ạ < 3",1.0,435
+436,chơi hay vui nhưng cứ chết là quả người cáo tuy tôi không nhắn vido,1.0,436
+437,vai bo được con bo nhin thay ghê,1.0,437
+438,chưa xài nên chưa bình_thường,0.0,438
+439,"ứng_dụng khá tốt , kích_thích học_tập . nhưng nếu có_thể cải_tiến , cho thêm phần đến số ngày học liên_tục như doulingo thì sẽ rèn được thói_quen nhiều hơn . có thêm các bảng xếp_hạng phân_hạng ( như lên hạng kim_cương hoặc xuống hạng đá khi không hoàn_thành chỉ_tiêu ) . cần bổ_sung phần nhắc nhỉ học_tập .",1.0,439
+440,"pin 5k . máy rất dầy nặng . màn hinh chiều dọc quá dài , ko thích tý nào . đực cái pin trâu . tuy không hổ trợ sạc nhanh , nhung sac tầm 3 tiếng là đầy",1.0,440
+441,"vào tới phần đặt_hàng thì không đặt được do không có mã khuyến_mãi , mà không biết tìm đâu ra cái mã để nhập vô . thiệt là bó_tay . nếu không có mã thì không đặt_hàng được sao . mà cũng không thấy phần giúp_đỡ hay đại_loại như thế để hỏi cho rõ xem thế_nào . cho 1star",1.0,441
+442,"tôi rất thích nó , đồ hình_vuông . nhờ game này tôi đã có kênh và tôi đã có 99999 like .",0.0,442
+443,"mọi thứ đều ổn chỉ duy_nhất việc gửi ảnh cùng story là không ổn . lúc trước gửi ảnh còn tìm được trong các mục mình tạo , giờ_đây lại phải mất_công lướt xuống một lúc lâu mới tìm được ảnh . và thời_gian của story quá ngắn , chỉ 20s . các bạn phát_triển aP để làm gì , không phải để đem lại sự tiện_nghi ch . bài đánh_giá đầy_đủ",1.0,443
+444,. hàng được 1 . shiPer được 10 . . 5star star star star star ❤ . .,0.0,444
+445,đóng_gói cẩn_thận 👌,0.0,445
+446,"đóng_gói kĩ_càng , giao hàng nhanh . sản_phẩm có mùi khá thơm , dịu nhẹ không gây kích_ứng da",0.0,446
+447,"chất son đẹp , màu son thịnh_hành , đã sử_dụng đến cây thứ 3 , đóng_gói cẩn_thận , rất hài_lòng và sẽ đồng_hành dài_dài",0.0,447
+448,kêu hàng chính hãng nà made in china à,1.0,448
+449,đẹp nhưng hơi rộng mặt_nạ mua phải nho cỡ thì vừa nói_chung là được,1.0,449
+450,"máy chính hãng samsung . lazada tự_động kích_hoạt bảo_hành sau 01 ngày giao hàng . mua 2 cái nhưng một cái được đóng_hộp có lớp lót , một cái không có lớp lót .",1.0,450
+451,"mình có mua 4 áo bên cửa_hàng , áo bị một chấm đen có xíu mình nói cửa_hàng khỏi đổi cho mình cũng được vậy_mà hôm sau có anh nhân_viên ten ten tới đổi cho mình cái mới . cho cửa_hàng 5 1star luôn vì độ uy_tín",0.0,451
+452,"da mình thuộc loại khoẻ nhưng dùng tinh_chất lại gây khích ứng . da mình rất ít nổi mụn mà dùng xong nổi rất nhiều , bạn_bè người_thân cũng bàng_hoàng lun . ban_đầu mình dùng hết mặt , thấy mụn nhiều nên chỉ chấm ở những chổ hết mụn để chữa thâm mà xoa xong là mọc mụn ngay chính chổ đó lun . nếu trị âm thâm thì cũng được , nhưng trắng da thì hên xui . bạn nên cân_nhắc khi mua . không phù_hợp đại_trà .",1.0,452
+453,hàng được nhé,0.0,453
+454,"cửa_hàng bảo mua 2 sản_phẩm sẽ được tặng một B cream nhưng hoàn_toàn không hề có quà tặng kèm , cả sample kem chống nắng nhỏ của mỗi sản_phẩm cũng không có .",1.0,454
+455,"từ game cho tới kho từ_vựng , cách luyện_tập bài_tập đều rất tốt đội_ngũ làm rất giỏi , nếu siêng học thì giỏi cực , góp_ý một_chút là khi dịch câu vẫn còn một_số cái hơi sai và chưa sát nghĩa và viễn_cảnh câu thoại cũng đúng thôi_vì ngôn_ngữ việt_nam rất rộng và phong_phú nhưng cũng là một điểm yếu cần kh . bài đánh_giá đầy_đủ",1.0,455
+456,"vấn_đề hàn_lâm nên để cho người vô có_thể ngồi được một_chút . người trong liên_minh thì một tiếng , người_ngoài liên_minh chỉ 30p . chứ như thế này thì lợi cho người mạnh thôi . còn người yếu không ngóc đầu được",1.0,456
+457,"giao hàng nhanh , máy hoạt_động tốt , tuy_nhiên đóng_gói cần bọc chống sốc cho an_toàn , lần sau ủng_hộ cửa_hàng",1.0,457
+458,sao không có hàng tặng ạ,1.0,458
+459,không nhìn kĩ hoá_ra son tung của,1.0,459
+460,"ban quả nó trị xem_lại xem mình nạp gói 500 gem , gói 1,99 $ thông_báo nạp thành_công , tài khoải trừ mà gem không có ạ ? xem_lại giùm cái",1.0,460
+461,hàng đúng với tầm giá sale . chứ bán đúng giá thật thì chất_lượng quá kém,1.0,461
+462,dê tăng rất luong nguoi dung can có tinh năng kiếm tiền vao trường_hợp gì se giờ quả va g yêu p ich cho bộ y_tế trg tôi điem giờ tại,1.0,462
+463,"lần đầu_tiên sử_dụng sản_phẩm của maybeLine hơn cả mong_đợi . sẽ tiếp_tục ủng_hộ , mọi người nên mua giá rẻ nhữngchất lượng rất tốt .",0.0,463
+464,sản_phẩm như hình cửa_hàng tư_vấn kĩ_càng mặt_nạ nên mua,0.0,464
+465,máy mới fuL seal fuL box . hên mua vào đúng lúc giảm_giá sốc nên chỉ tốn 3 chai 😁 😁 😁,0.0,465
+466,máy mới mua mà kiểm_tra trong mục hình_ảnh đã có người dùng Chup gì ảnh trước đó từ 2018 rất nhiều hình_ảnh . giải_quyết vấn_đề này giúp tôi . và mỗi lần liên_lạc với lazađa thi cuc ki uc che . k nhắn_tin goi dien truc tiep được nên moi viet len day .,1.0,466
+467,game thiếu công_bằng với member . phân_biệt top nạp và dân cày . khiếu_nại admin chỉ trả_lời qua_loa cho xong vấn_đề . khá thất_vọng ! ! khuyên các bạn có ý_định tải game về chơi . khi chơi không nên gây_chuyện với top . bị trả_lời ort aC thì admin không giải_quyết cho các bạn đâu nhé . - thân_ái chào quyết_thắng . tạm_biệt game,1.0,467
+468,tôi đã mua phần_mềm . tôi học_phần giao_tiếp cho người mới bắt_đầu . học_phần where are you from đến hội_thoại 1 . mặc_dù tôi đã hoàn_thành hết phần từ_vựng nhưng phần_mềm vẫn báo là 0 % chưa học_phần từ vưng . tôi không_thể học_phần tiếp_theo vì chưa hoàn_thành_phần where are you from thực_sự rất ức_chế,1.0,468
+469,đã dùng nhiều lần 💕 rất tin_tưởng bên cửa_hàng,0.0,469
+470,"cần cải_thiện phần luyện tậo , làm xong không biết mình sai cái gì đó ạ . cần đáp_án hoặc bài giải_thích để học_viên biết ạ",1.0,470
+471,"đồ_hoạ quá đẹp nhưng . tôi xin nhà phát triểu sửa lại lỗi hình_vuông màu tím , tôi chẳng chs được gì cả nhân_vật tôi còn hom hiện 😣 mong nhà phát_triển sửa lại .",1.0,471
+472,sao da mình dùng bị ngứa và nổi mẩn đỏ . có_nhân_viên nào tư_vấn cho mình trườg hợp này ko ?,1.0,472
+473,quần đẹp_mặt vừa_ý,0.0,473
+474,sản_phẩm được gói cẩn_thận . cảm_thấy da mướt và sáng hơn khi sử_dụng . nhìn_chung khá ưng_ý về sản_phẩm .,0.0,474
+475,rất tuyệt_vời cho 5star,0.0,475
+476,"giao hàng nhanh , mà quận cỡ mình hơi nhỏ hơn rất với cỡ mình bình_thường nếu đặt nên đặt dư một cỡ rất với cỡ bình_thường",1.0,476
+477,"giao hàng nhanh , đóng_gói cẩn_thận , điên thoại_đẹp",0.0,477
+478,"rất bổ_ích , rất tốt cho trẻ_em",0.0,478
+479,cũng xịn,0.0,479
+480,"tôi đang xài không em 9 và ứng_dụng line thường hay xãy ra tình_trạng không thông_báo có tin nhắn của bạn_bè cũng như đối_tác của tôi gửi yin nhắn tới . cách đây mấy tháng không em 9 của tôi cũng gặp tình trang này và giờ_đây tình_trạng này lại xãy ra nữa , rất bực_mình , mong công tình_yêu line khắc_phục gấp",1.0,480
+481,"mình thấy game này rất vui và hay nhưng hơi nhiều mb thôi nếu giảm xuống một tý thì ai cũng có_thể tải về chơi , nếu_như cái điện_thoại của một người nào mà ít mb vẫn thể tải được 😊 dù_sao đi_nữa thì cũng cho 4 sao mong nhà sản_xuất chỉnh sữa lại thì tôi sẽ cho 5star",1.0,481
+482,về vấn_đề học hàn_lâm nên giới_hạn quan phẩm cao không được học ở lớp do quan phẩm thấp mở . về cửa tiệm đạo_cụ đã có bán thì nên tổ_chức thu_mua theo giá_trị trừ % lợi_nhuận của cửa_hàng thì game có_thể sẽ thêm phần sinh_động,1.0,482
+483,đặt cỡ 41 mà giao cỡ 37,1.0,483
+484,"tạm . mà toàn chữ gì ấy , không phải chữ hira hay kata . không dịch nhật việt được",1.0,484
+485,nhiều từ dịch sai . ví_dụ từ いしゃ là bác_sỹ thì lại dịch là đi . câu tomさん は いしゃ です 。 nghĩa_là tom là bác_sỹ thì lại dịch là tom không có ở đây . mong admin xem_lại,1.0,485
+486,"quá tệ , tài_khoản của mình dùng đã mấy năm . mình tin_tưởng facebook nên lưu_trữ tất_cả những hình_ảnh và kỉ_niệm của mình lên bỗng một ngày đẹp trời tài_khoản của mình bị vô_hiệu_hoá yêu_cầu xác_minh danh_tính , mình gửi cả những giấy trộn tuỳ_thân của mình nhờ facebook xem_xét mà mãi chả thấy phản_hồi . mình thấy ko . bài đánh_giá đầy_đủ",1.0,486
+487,đúng chính hãng,0.0,487
+488,"giao hàng nhanh vãi nồi , chả nhẽ cho 1star vì nhanh quá",0.0,488
+489,vải đẹp rất thích . sẽ ủng_hộ cửa_hàng,0.0,489
+490,"giao hàng nhanh , hàng chính hãng , đóng_gói cẩn_thận",0.0,490
+491,giao hàng nhanh đóng_gói cẩn thật nhưng camera điện_thoại bị lệch còn máy thì phải dùng vài tuần với biết được,1.0,491
+492,"không có nhãn_hiệu in trên dép như hình quả người cáo , hoang_mang , với giá sale thì ổn nhưng giá 110k thì gắt .",1.0,492
+493,hàng ok . so với giá tiền 5star vận_chuyển nhanh . nhân_viên giao hàng nhiệt_tình thái_độ tốt,0.0,493
+494,"giao hàng nhanh , hàng xịn chính hãng . mua trên lzd thì rẻ , không biết mọi người cứ mất_công đi mua hàng_xách tay làm gì vừa không rõ nguồn_gốc mà cungz đắt",0.0,494
+495,cũng được nhưng không hài_lòng,1.0,495
+496,mới gội thấy bớt ngứa . để sử_dụng lâu coi có hiệu_quả kg .,0.0,496
+497,các bạn nên dùng thử . . rất hiệu_quả . lazada rất đág tin_cậy shiPer giao hàng đúg hẹn . . thân_thiện . . nói_chung cực thích mua_sắm ở lazada,0.0,497
+498,đã nạp gần 100k mà sao vi ' traveLet lại không nhận một xu nào du bên ngân_hàng đã báo trừ tiền . mong được bồi_thường . mới ra mà làm_ăn vậy sao ai dám nạp ? ?,1.0,498
+499,"gói hàng cẩn_thận , kem bôi tệp vô da nhah , có mùi thơm nhẹ , sau khi tẩy trag cảm_giác được dưỡng nhẹ không bị khô da",0.0,499
+500,"thực_sự xài êm lắm , hết gàu ngay lần gội đầu_tiên luôn ấy , tới lúc tóc sắp dơ cũng không thấy gàu . mà_lại không bị khô tóc nữa chứ ! mình đã thử nhiều loại , gì o mới thấy em ấy !",0.0,500
+501,chất được nhiều màu không đẹp như ảnh lắm,1.0,501
+502,"giao hàng nhanh , hàng nguyên seal . vui_lòng kích_hoạt bảo_hành",0.0,502
+503,vải xấu . hàng gửi về không đúng màu cũng không giống hình .,1.0,503
+504,không đẹp vải mỏng,1.0,504
+505,"mình nghĩ với phiên_bản mới sách năm 2019 ngoài phần ktra từ_vựng thôi_thì chưa đủ & ổn , vì rõ_ràng phiên_bản 2019 có cả một kho cụm từ tanh rất cần_thiết , hay & hữu_dụng , nếu ngoài không trong sách thôi qua các truyện chêm thì mình thấy còn thiếu , nên mình mong admin sẽ nâng_cấp thêm phiên_bản sách 2019 không tra . bài đánh_giá đầy_đủ",1.0,505
+506,sản_phẩm của nhãn_hiệu khá phù_hợp với da của mình mình sử_dụng sản_phẩm cũng lâu rồi sản_phẩm rất tốt ❤ ❤,0.0,506
+507,"màu đẹp , chất tốt và siêu siêu mềm_mại không gây khô môi",0.0,507
+508,"hợp với màu_da của mình , sản_phẩm được giao hàng nhanh_chóng",0.0,508
+509,mình mua áo gia_đình này mặc thích được cảm_ơn cửa_hàng cho mình sản_phẩm ưng_ý,0.0,509
+510,"cái gì đây , game mà tôi rất thích và sống để chơi , thế_mà giờ lại có nhiều người khó_chịu vậy sao , thật đau_lòng nhưng cũng chưa chắc khi không họ nói như_vậy , một loại game cộng_đồng mang tính chiến_thuật , đồng_đội và quyết_tâm đến vậy . các nhà sáng_lập ơi , làm_ơn hãy làm_việc tích_cực và hi_sin . bài đánh_giá đầy_đủ",0.0,510
+511,"dùng thử được 4 ngày ( xen_kẽ với bồ_kết ) trước_mắt không thấy gầu , không biết bao_giờ bị lại .",0.0,511
+512,game chs rất ổn và được tự_nhiên hôm_qua bảo_trì chúng_mày gì đó xong ứng_dụng Hct rất là nặng máy và chs game không được luôn cứ vô được một phút là bay ra .,1.0,512
+513,"giao hàng nhanh cực , mới đặt chiều qua mà hôm_nay đã có .",0.0,513
+514,hay và rất đặc_sắc hay nhưng mà thỉnh_thoảng mình không vào được,1.0,514
+515,"aP để lại tính_năng nghe đi nghe lại một track được không ạ ! khi nào học_viên nghe thuộc xong một track rồi học_viên sẽ chuyển sang track tiếp_theo , chứ tự tính_năng_động chuyển track phiền lắm ạ ! cứ mất thời_gian ấn quay lại trong khi chưa thuộc xong track một mà aP đã chuyển sang track 2 . mong aP duyệt cho mong . bài đánh_giá đầy_đủ",1.0,515
+516,nhận hàng đúng như trong hình . fuL box . cảm_ơn cửa_hàng,0.0,516
+517,mẫu giống hình vải thì cứng nhưng phù_hợp với giá tiền,1.0,517
+518,giống mẫu được nhưng hơi mỏng,1.0,518
+519,"chơi viễn_chinh rất hay bị văng ra khỏi phòng mặc_dù tôi là chủ phòng , mà toàn văng lúc chuẩn_bị đánh boS , bị nhiều lần như thế rất khó_chịu đề_nghị admin xem_xét và khắc_phục lỗi này . đánh_giá này tôi viết lâu lắm rồi nhưng mà lỗi nó còn nhiều hơn chứ không có xu_hướng giảm và cũng không có ai phản_hồi c . bài đánh_giá đầy_đủ",1.0,519
+520,"đầm y hình , đẹp , chất_lượng phù_hợp với giá tiền mọi người nên mua ở cửa_hàng nay",0.0,520
+521,"tôi dùng rất lâu rồi thấy tiện_lợi mà còn đáng yêu nữa trong khi : người dùng thì đời cũ ( 1955 ) máy Sung thì đời_đầu , quả người cáo chút không sao vì nó là sức đẩy cho sự phát_triển ứng_dụng cũng như mang lại việc sử_dụng miễn_phí của mọi người chúc các bạn thành_công .",0.0,521
+522,chất_lượng của kem chống nắng thì mình yên_tâm rồi nhưng lần này giao hàng khá chậm và nhân_viên giao hành không nhiệt_tình .,1.0,522
+523,"dùng tốt , nhưng nhanh hết positive",1.0,523
+524,sản_phẩm được,0.0,524
+525,"game này hay lắm các bạn nhớ tải nha . cho 5star luôn . mình đã có lần đứng hạng 2 và nặng 380,866 không",0.0,525
+526,giao hàng chậm 🤨,1.0,526
+527,"đây là phần_mềm tra từ_điển hữu_ích nhất mà tôi đã dùng , không chỉ dừng lại ở việc tra từ_điển , mà tflat còn giúp cho người dùng học thêm từ_vựng theo từng mục_đích học , tích_hợp chơi game giúp học từ_vựng nhanh hơn . tôi đã dùng tflat được 5 năm nay rồi và sẽ luôn dùng tflat . chân_thành cảm_ơn đội n . bài đánh_giá đầy_đủ",0.0,527
+528,sản_phẩm tốt mùa rất rất thơm luôn mua đây lần đầu mua hàng ở cửa_hàng cảm_thấy rất tuyệt . mua trúng dịp sale rồi rẻ luôn cám_ơn cửa_hàng ♥ ♥ ♥ ♥ ♥,0.0,528
+529,mình cho rằng là hãy cho cây súng vector quay lại và cả khả_năng lắp được nòng 3 vào shOtgan mình rất mong nhà phát_hành sẽ xem được ý_kiến của mình ps : mình là người chơi frE fifre từ bản beta cho tới ngày hôm_nay nên mình mong là nhà phát_hành sẽ hiểu cho lời đề_nghị của mình,1.0,529
+530,cho 1star ly do dat 1trang kem 1den ma giao 2den . da hộp_thư đến cửa_hàng được rồi ma giao không dung mau,1.0,530
+531,"game rất hay và tôi sẽ góp_ý_kiến của tôi là cập_nhật lần sau tôi muốn chủ game mini world cập_nhật thêm cái có_thể điều_khiển được xe , máy_bay , trung quốc thuyền . nói đúng hơn là mình sẽ làm một cái xe , máy_bay . bằng chất_liệu ví_dụ như len đó , xây xong . nhưng máy_bay này đâu có bay được đâu nên khi gắn t . bài đánh_giá đầy_đủ",1.0,531
+532,"chất vải đẹp , sẽ ủng_hộ cửa_hàng .",0.0,532
+533,"chất_lượng rất tốt , đã mua 2 lần",0.0,533
+534,mượt mà lắm ngon trong tầm giá,0.0,534
+535,sáng nay chơi vẫn bình_thường nhưng khi tối vô_lại thì tất_cả các hiệu_ứng đều hoá thành cục màu hồng ! mong nhà phát_triển game xem_xét_lại !,1.0,535
+536,tôi rất thích cả nhà trò_chơi này trò_chơi này thì mà tôi đã vượt quá 2 thì nó cực_kỳ nhanh tuổi liên_tiếp từ một đến 2 là 3 là tôi đã bỏ_cuộc_sống của đó thì tôi cũng sẽ ổn_định ra vì tôi thấy nó rất ổn_định bây_giờ tôi đánh_giá trò_chơi của các bạn là 5star nhìn như cho chơi 360mobi cờ tỷ_phú là tôi . bài đánh_giá đầy_đủ,0.0,536
+537,sản_phẩm_chất_lượng,0.0,537
+538,rất tốt luôn á sieu đẹp . .,0.0,538
+539,"dạo gần đây rất hay bị tự_động xoá dữ_liệu rồi bắt khôi_phục lại , nhưng quá_trình khôi_phục dù tín_hiệu wifi rất mạnh nhưng vẫn rất lâu , và thậm_chí không tải được dữ_liệu . đã gần cả tuần nay không xài aP này , vì không có dữ_liệu oFline . mong aD khắc_phục sớm nhất có_thể .",1.0,539
+540,đúng mẫu khá là ok . nhưng có vết rách trên vai áo . vãi hơi mỏng đường may cần tỉ_mỉ một xíu . tạm ổn . mong cửa_hàng coi hàng cẩn_thận trước khi giao,1.0,540
+541,hàng được đóng_gói 3 lớp cẩn_thận . mới đặt tối hôm_qua sáng nay đã giao rồi,0.0,541
+542,không như quả người cáo . hơi thất_vọng,1.0,542
+543,hàng đẹp giao đúng cỡ . sẽ ủng_hộ cửa_hàng tiếp_tục,0.0,543
+544,"đẹp hơn mong_đợi . tuy_nhiên một lỗi nhỏ ở cúc áo đầu_tiên nó bị lệch làm lộ áo trong . và chun quần thì quá nhỏ , độ bền không cao . mặc được vài bữa là bị giãn liền . nói_chung vẫn cho cửa_hàng 4 sao .",1.0,544
+545,chính hãng xài thích,0.0,545
+546,đồ rất đẹp,0.0,546
+547,đỡ hơn sau một tháng sử_dụng,0.0,547
+548,"da mình thuộc dạng da hỗn_hợp thiên_dầu khá khó chiều nên việc tìm_kiếm loại kem chống nắng phù_hợp cũng khá nan_giải hì hì . nghe đến kem chống nắng aneSa từ các group làm_đẹp đã lâu nhưng chưa dám thử vì không tìm được chỗ yên_tâm mua hàng chính hãng . may_mắn thay khi nghe tin aneSa về việt_nam , lại còn được bán trên lazada quá tiện_lợi cho một bà mẹ bỉm sữa bận_rộn như mình . thế_là mình mua về ngay còn dụ em_gái mua cùng cho vui ^ ^ . phải nói là dùng qua nhiều loại chống nắng nhưng rất ưng aneSa vì dạng chai nhỏ gọn dễ_dàng điều_chỉnh ra lượng kem vừa_phải , chất kem dạng sữa không quả lỏng cũng không đặc , bôi lên da một_tí là khô thoáng ngay không hề có cảm_giác bết dính rất dễ_chịu . vì_thế mình tha_hồ dùng các bước dưỡng da trước rồi sử_dụng aneSa mà không hề bị cảm_giác nặng mặt , bí lỗ chân_lông . còn về khả_năng chống nắng thì khỏi nói , có những lần mình đi biển cứ sợ về mặt đỏ_ửng bong tróc thì may thay về nhà da mặt vẫn không có dấu_hiệu ăn nắng như trước , thở_phào nhẹ_nhõm luôn í . đối_với cá_nhân mình với mức giá tương_đối dễ_chịu mà hiệu_quả lại xịn sò ” không thua_kém bất_kì loại kem chống nắng nổi_tiếng nào thì aneSa quả là lựa_chọn thông_minh giành cho tất_cả chị_em phụ_nữ chúng_mình các bạn nhĩ_❤",0.0,548
